@@ -1,0 +1,2321 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:socrata="http://www.socrata.com/rdf/terms#" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:ods="http://open-data-standards.github.com/2012/01/open-data-standards#" xmlns:dcterm="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dsbase="https://data.ct.gov/resource/" xmlns:ds="https://data.ct.gov/resource/_7rne-efic/">
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-23qu.ew79_79j4">
+    <socrata:rowID>row-23qu.ew79_79j4</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-08</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8030</ds:case_tot>
+    <ds:crudecaserate>1361</ds:crudecaserate>
+    <ds:caseageadjusted>1556</ds:caseageadjusted>
+    <ds:deaths>348</ds:deaths>
+    <ds:crudedeathrate>59</ds:crudedeathrate>
+    <ds:deathageadjusted>111</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-5v9x.j6rt-zx2k">
+    <socrata:rowID>row-5v9x.j6rt-zx2k</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-08</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>39</ds:case_tot>
+    <ds:crudecaserate>408</ds:crudecaserate>
+    <ds:caseageadjusted>445</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-5275-gm9z~jzx2">
+    <socrata:rowID>row-5275-gm9z~jzx2</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-08</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>649</ds:case_tot>
+    <ds:crudecaserate>364</ds:crudecaserate>
+    <ds:caseageadjusted>374</ds:caseageadjusted>
+    <ds:deaths>44</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>37</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-t3wf.xv4w-r6w7">
+    <socrata:rowID>row-t3wf.xv4w-r6w7</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-08</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5734</ds:case_tot>
+    <ds:crudecaserate>1481</ds:crudecaserate>
+    <ds:caseageadjusted>1501</ds:caseageadjusted>
+    <ds:deaths>614</ds:deaths>
+    <ds:crudedeathrate>159</ds:crudedeathrate>
+    <ds:deathageadjusted>186</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-aqg6_9jvq_r5cf">
+    <socrata:rowID>row-aqg6_9jvq_r5cf</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-08</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>117</ds:case_tot>
+    <ds:deaths>27</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-57m5~m87e-7mmr">
+    <socrata:rowID>row-57m5~m87e-7mmr</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-08</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>247</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-izn7~2h7u_9eru">
+    <socrata:rowID>row-izn7~2h7u_9eru</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-08</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15238</ds:case_tot>
+    <ds:crudecaserate>633</ds:crudecaserate>
+    <ds:caseageadjusted>482</ds:caseageadjusted>
+    <ds:deaths>2978</ds:deaths>
+    <ds:crudedeathrate>124</ds:crudedeathrate>
+    <ds:deathageadjusted>68</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-8rxa-5rcx~fksv">
+    <socrata:rowID>row-8rxa-5rcx~fksv</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-08</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14125</ds:case_tot>
+    <ds:deaths>68</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-5gzv~cdst-8pgw">
+    <socrata:rowID>row-5gzv~cdst-8pgw</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-09</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8082</ds:case_tot>
+    <ds:crudecaserate>1370</ds:crudecaserate>
+    <ds:caseageadjusted>1565</ds:caseageadjusted>
+    <ds:deaths>349</ds:deaths>
+    <ds:crudedeathrate>59</ds:crudedeathrate>
+    <ds:deathageadjusted>111</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-g6jz~kz29-edkc">
+    <socrata:rowID>row-g6jz~kz29-edkc</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-09</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>39</ds:case_tot>
+    <ds:crudecaserate>408</ds:crudecaserate>
+    <ds:caseageadjusted>445</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-7h44.iey6~yars">
+    <socrata:rowID>row-7h44.iey6~yars</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-09</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>650</ds:case_tot>
+    <ds:crudecaserate>365</ds:crudecaserate>
+    <ds:caseageadjusted>374</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-rx6a~itgj_kz62">
+    <socrata:rowID>row-rx6a~itgj_kz62</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-09</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5761</ds:case_tot>
+    <ds:crudecaserate>1488</ds:crudecaserate>
+    <ds:caseageadjusted>1508</ds:caseageadjusted>
+    <ds:deaths>619</ds:deaths>
+    <ds:crudedeathrate>160</ds:crudedeathrate>
+    <ds:deathageadjusted>187</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-x6ci~ddkx~bhqg">
+    <socrata:rowID>row-x6ci~ddkx~bhqg</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-09</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>117</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-2xkr-2bb9_39vt">
+    <socrata:rowID>row-2xkr-2bb9_39vt</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-09</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>249</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-2maq_ec2k_ncuw">
+    <socrata:rowID>row-2maq_ec2k_ncuw</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-09</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15320</ds:case_tot>
+    <ds:crudecaserate>636</ds:crudecaserate>
+    <ds:caseageadjusted>485</ds:caseageadjusted>
+    <ds:deaths>3002</ds:deaths>
+    <ds:crudedeathrate>125</ds:crudedeathrate>
+    <ds:deathageadjusted>68</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-758s-ptkg.vc7r">
+    <socrata:rowID>row-758s-ptkg.vc7r</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-09</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14129</ds:case_tot>
+    <ds:deaths>61</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-etzx~qagv_5kqw">
+    <socrata:rowID>row-etzx~qagv_5kqw</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-10</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8130</ds:case_tot>
+    <ds:crudecaserate>1378</ds:crudecaserate>
+    <ds:caseageadjusted>1573</ds:caseageadjusted>
+    <ds:deaths>351</ds:deaths>
+    <ds:crudedeathrate>59</ds:crudedeathrate>
+    <ds:deathageadjusted>112</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-k7zx_ujes~23yj">
+    <socrata:rowID>row-k7zx_ujes~23yj</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-10</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>39</ds:case_tot>
+    <ds:crudecaserate>408</ds:crudecaserate>
+    <ds:caseageadjusted>445</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-zym5~9a92~v9qa">
+    <socrata:rowID>row-zym5~9a92~v9qa</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-10</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>654</ds:case_tot>
+    <ds:crudecaserate>367</ds:crudecaserate>
+    <ds:caseageadjusted>377</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-fmfg_qwgk~s84n">
+    <socrata:rowID>row-fmfg_qwgk~s84n</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-10</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5781</ds:case_tot>
+    <ds:crudecaserate>1493</ds:crudecaserate>
+    <ds:caseageadjusted>1513</ds:caseageadjusted>
+    <ds:deaths>620</ds:deaths>
+    <ds:crudedeathrate>160</ds:crudedeathrate>
+    <ds:deathageadjusted>188</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-ek3c.h243-yj7x">
+    <socrata:rowID>row-ek3c.h243-yj7x</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-10</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>118</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-i3br.n8tv-8p5e">
+    <socrata:rowID>row-i3br.n8tv-8p5e</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-10</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>251</ds:case_tot>
+    <ds:deaths>15</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-5wgc_ac22_wubi">
+    <socrata:rowID>row-5wgc_ac22_wubi</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-10</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15369</ds:case_tot>
+    <ds:crudecaserate>638</ds:crudecaserate>
+    <ds:caseageadjusted>486</ds:caseageadjusted>
+    <ds:deaths>3024</ds:deaths>
+    <ds:crudedeathrate>126</ds:crudedeathrate>
+    <ds:deathageadjusted>69</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-ds55.6twx_iqsv">
+    <socrata:rowID>row-ds55.6twx_iqsv</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-10</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14119</ds:case_tot>
+    <ds:deaths>63</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-c7x9-85zs_q6h5">
+    <socrata:rowID>row-c7x9-85zs_q6h5</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-11</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8190</ds:case_tot>
+    <ds:crudecaserate>1388</ds:crudecaserate>
+    <ds:caseageadjusted>1584</ds:caseageadjusted>
+    <ds:deaths>351</ds:deaths>
+    <ds:crudedeathrate>59</ds:crudedeathrate>
+    <ds:deathageadjusted>112</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-4smj.mcd5~ksxi">
+    <socrata:rowID>row-4smj.mcd5~ksxi</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-11</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>39</ds:case_tot>
+    <ds:crudecaserate>408</ds:crudecaserate>
+    <ds:caseageadjusted>445</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-vgry~xz5q~e3n8">
+    <socrata:rowID>row-vgry~xz5q~e3n8</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-11</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>654</ds:case_tot>
+    <ds:crudecaserate>367</ds:crudecaserate>
+    <ds:caseageadjusted>377</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-aach-n7sr.8ax8">
+    <socrata:rowID>row-aach-n7sr.8ax8</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-11</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5797</ds:case_tot>
+    <ds:crudecaserate>1497</ds:crudecaserate>
+    <ds:caseageadjusted>1517</ds:caseageadjusted>
+    <ds:deaths>622</ds:deaths>
+    <ds:crudedeathrate>161</ds:crudedeathrate>
+    <ds:deathageadjusted>188</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-fsgk~rxmz_ymir">
+    <socrata:rowID>row-fsgk~rxmz_ymir</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-11</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>118</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-bvjv.v9c4_z8yt">
+    <socrata:rowID>row-bvjv.v9c4_z8yt</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-11</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>253</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-3wmf-kshk~pkm7">
+    <socrata:rowID>row-3wmf-kshk~pkm7</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-11</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15415</ds:case_tot>
+    <ds:crudecaserate>640</ds:crudecaserate>
+    <ds:caseageadjusted>488</ds:caseageadjusted>
+    <ds:deaths>3035</ds:deaths>
+    <ds:crudedeathrate>126</ds:crudedeathrate>
+    <ds:deathageadjusted>69</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-yeag-kwy5~vpnv">
+    <socrata:rowID>row-yeag-kwy5~vpnv</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-11</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14223</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-ncp7.ch7h.4sfj">
+    <socrata:rowID>row-ncp7.ch7h.4sfj</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-12</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8238</ds:case_tot>
+    <ds:crudecaserate>1396</ds:crudecaserate>
+    <ds:caseageadjusted>1593</ds:caseageadjusted>
+    <ds:deaths>354</ds:deaths>
+    <ds:crudedeathrate>60</ds:crudedeathrate>
+    <ds:deathageadjusted>113</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-qhx8_xj6s_sfcb">
+    <socrata:rowID>row-qhx8_xj6s_sfcb</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-12</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>40</ds:case_tot>
+    <ds:crudecaserate>418</ds:crudecaserate>
+    <ds:caseageadjusted>457</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-jh6x-kgqn.jfj3">
+    <socrata:rowID>row-jh6x-kgqn.jfj3</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-12</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>656</ds:case_tot>
+    <ds:crudecaserate>368</ds:crudecaserate>
+    <ds:caseageadjusted>378</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-j8pf.pz6g_c6zk">
+    <socrata:rowID>row-j8pf.pz6g_c6zk</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-12</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5839</ds:case_tot>
+    <ds:crudecaserate>1508</ds:crudecaserate>
+    <ds:caseageadjusted>1528</ds:caseageadjusted>
+    <ds:deaths>623</ds:deaths>
+    <ds:crudedeathrate>161</ds:crudedeathrate>
+    <ds:deathageadjusted>188</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-wamq-h5da.bnqs">
+    <socrata:rowID>row-wamq-h5da.bnqs</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-12</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>119</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-mk38_pvvp~fdq7">
+    <socrata:rowID>row-mk38_pvvp~fdq7</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-12</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>252</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-723w~nu77.7ipy">
+    <socrata:rowID>row-723w~nu77.7ipy</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-12</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15542</ds:case_tot>
+    <ds:crudecaserate>645</ds:crudecaserate>
+    <ds:caseageadjusted>492</ds:caseageadjusted>
+    <ds:deaths>3058</ds:deaths>
+    <ds:crudedeathrate>127</ds:crudedeathrate>
+    <ds:deathageadjusted>70</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-frsp~v46d.z8bg">
+    <socrata:rowID>row-frsp~v46d.z8bg</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-12</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14308</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-62yf_5qkm.vyx8">
+    <socrata:rowID>row-62yf_5qkm.vyx8</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-13</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8251</ds:case_tot>
+    <ds:crudecaserate>1398</ds:crudecaserate>
+    <ds:caseageadjusted>1595</ds:caseageadjusted>
+    <ds:deaths>355</ds:deaths>
+    <ds:crudedeathrate>60</ds:crudedeathrate>
+    <ds:deathageadjusted>113</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-3as9~i6df_ri46">
+    <socrata:rowID>row-3as9~i6df_ri46</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-13</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>40</ds:case_tot>
+    <ds:crudecaserate>418</ds:crudecaserate>
+    <ds:caseageadjusted>457</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-bnif~fiyt~qz5j">
+    <socrata:rowID>row-bnif~fiyt~qz5j</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-13</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>655</ds:case_tot>
+    <ds:crudecaserate>367</ds:crudecaserate>
+    <ds:caseageadjusted>377</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-57dw_8khk.tk26">
+    <socrata:rowID>row-57dw_8khk.tk26</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-13</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5846</ds:case_tot>
+    <ds:crudecaserate>1510</ds:crudecaserate>
+    <ds:caseageadjusted>1530</ds:caseageadjusted>
+    <ds:deaths>625</ds:deaths>
+    <ds:crudedeathrate>161</ds:crudedeathrate>
+    <ds:deathageadjusted>189</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-yfx7_x7q6-pusj">
+    <socrata:rowID>row-yfx7_x7q6-pusj</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-13</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>119</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-67fj-rmvz-pbcv">
+    <socrata:rowID>row-67fj-rmvz-pbcv</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-13</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>252</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-2bwa_a335~5dud">
+    <socrata:rowID>row-2bwa_a335~5dud</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-13</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15570</ds:case_tot>
+    <ds:crudecaserate>646</ds:crudecaserate>
+    <ds:caseageadjusted>492</ds:caseageadjusted>
+    <ds:deaths>3070</ds:deaths>
+    <ds:crudedeathrate>127</ds:crudedeathrate>
+    <ds:deathageadjusted>70</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-qpn9~3qm4.fgp7">
+    <socrata:rowID>row-qpn9~3qm4.fgp7</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-13</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14355</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-js4w~xaf8-wsf2">
+    <socrata:rowID>row-js4w~xaf8-wsf2</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-14</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8272</ds:case_tot>
+    <ds:crudecaserate>1402</ds:crudecaserate>
+    <ds:caseageadjusted>1599</ds:caseageadjusted>
+    <ds:deaths>356</ds:deaths>
+    <ds:crudedeathrate>60</ds:crudedeathrate>
+    <ds:deathageadjusted>114</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-y9ec~vj7b.vxme">
+    <socrata:rowID>row-y9ec~vj7b.vxme</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-14</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>40</ds:case_tot>
+    <ds:crudecaserate>418</ds:crudecaserate>
+    <ds:caseageadjusted>457</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-h7k7_ncg3-fezf">
+    <socrata:rowID>row-h7k7_ncg3-fezf</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-14</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>656</ds:case_tot>
+    <ds:crudecaserate>368</ds:crudecaserate>
+    <ds:caseageadjusted>378</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-p6rx-zbqb-tzdb">
+    <socrata:rowID>row-p6rx-zbqb-tzdb</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-14</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5872</ds:case_tot>
+    <ds:crudecaserate>1516</ds:crudecaserate>
+    <ds:caseageadjusted>1537</ds:caseageadjusted>
+    <ds:deaths>625</ds:deaths>
+    <ds:crudedeathrate>161</ds:crudedeathrate>
+    <ds:deathageadjusted>189</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-s4te-w48u_gxj5">
+    <socrata:rowID>row-s4te-w48u_gxj5</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-14</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>119</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-jbx2_rvfy.rc5n">
+    <socrata:rowID>row-jbx2_rvfy.rc5n</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-14</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>253</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-uzyn_iunv~hvbm">
+    <socrata:rowID>row-uzyn_iunv~hvbm</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-14</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15592</ds:case_tot>
+    <ds:crudecaserate>647</ds:crudecaserate>
+    <ds:caseageadjusted>493</ds:caseageadjusted>
+    <ds:deaths>3072</ds:deaths>
+    <ds:crudedeathrate>128</ds:crudedeathrate>
+    <ds:deathageadjusted>70</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-r5ys_k4pn~bnsn">
+    <socrata:rowID>row-r5ys_k4pn~bnsn</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-14</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14431</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-qx2a~apz3.5kwq">
+    <socrata:rowID>row-qx2a~apz3.5kwq</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-15</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8329</ds:case_tot>
+    <ds:crudecaserate>1411</ds:crudecaserate>
+    <ds:caseageadjusted>1605</ds:caseageadjusted>
+    <ds:deaths>357</ds:deaths>
+    <ds:crudedeathrate>60</ds:crudedeathrate>
+    <ds:deathageadjusted>114</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-89me_4wb6-ek4c">
+    <socrata:rowID>row-89me_4wb6-ek4c</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-15</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>41</ds:case_tot>
+    <ds:crudecaserate>429</ds:crudecaserate>
+    <ds:caseageadjusted>465</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-4j9b_6fxr_7ksx">
+    <socrata:rowID>row-4j9b_6fxr_7ksx</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-15</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>658</ds:case_tot>
+    <ds:crudecaserate>369</ds:crudecaserate>
+    <ds:caseageadjusted>378</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-3h48-p9zi~tbkp">
+    <socrata:rowID>row-3h48-p9zi~tbkp</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-15</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5886</ds:case_tot>
+    <ds:crudecaserate>1520</ds:crudecaserate>
+    <ds:caseageadjusted>1540</ds:caseageadjusted>
+    <ds:deaths>626</ds:deaths>
+    <ds:crudedeathrate>162</ds:crudedeathrate>
+    <ds:deathageadjusted>189</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-42wk.h9tr.x7vj">
+    <socrata:rowID>row-42wk.h9tr.x7vj</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-15</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>119</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-guws-pnv8-bhzn">
+    <socrata:rowID>row-guws-pnv8-bhzn</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-15</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>253</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-g4nv-qnej_a6km">
+    <socrata:rowID>row-g4nv-qnej_a6km</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-15</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15628</ds:case_tot>
+    <ds:crudecaserate>649</ds:crudecaserate>
+    <ds:caseageadjusted>495</ds:caseageadjusted>
+    <ds:deaths>3076</ds:deaths>
+    <ds:crudedeathrate>128</ds:crudedeathrate>
+    <ds:deathageadjusted>70</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-jrdr_2qqi.uus5">
+    <socrata:rowID>row-jrdr_2qqi.uus5</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-15</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14435</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-zxbt.gz68~vaef">
+    <socrata:rowID>row-zxbt.gz68~vaef</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-16</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8378</ds:case_tot>
+    <ds:crudecaserate>1420</ds:crudecaserate>
+    <ds:caseageadjusted>1614</ds:caseageadjusted>
+    <ds:deaths>357</ds:deaths>
+    <ds:crudedeathrate>60</ds:crudedeathrate>
+    <ds:deathageadjusted>114</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-8q5r-r4ek~xm39">
+    <socrata:rowID>row-8q5r-r4ek~xm39</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-16</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>41</ds:case_tot>
+    <ds:crudecaserate>429</ds:crudecaserate>
+    <ds:caseageadjusted>467</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-2ivm.yri7.9267">
+    <socrata:rowID>row-2ivm.yri7.9267</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-16</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>661</ds:case_tot>
+    <ds:crudecaserate>371</ds:crudecaserate>
+    <ds:caseageadjusted>379</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-m2m6~4s77-5ghb">
+    <socrata:rowID>row-m2m6~4s77-5ghb</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-16</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5908</ds:case_tot>
+    <ds:crudecaserate>1526</ds:crudecaserate>
+    <ds:caseageadjusted>1545</ds:caseageadjusted>
+    <ds:deaths>627</ds:deaths>
+    <ds:crudedeathrate>162</ds:crudedeathrate>
+    <ds:deathageadjusted>189</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-pbka.zpz4_4pxv">
+    <socrata:rowID>row-pbka.zpz4_4pxv</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-16</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>120</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-v4gs-hdet_5i2c">
+    <socrata:rowID>row-v4gs-hdet_5i2c</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-16</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>253</ds:case_tot>
+    <ds:deaths>17</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-r9sr-4zrk~8tpa">
+    <socrata:rowID>row-r9sr-4zrk~8tpa</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-16</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15676</ds:case_tot>
+    <ds:crudecaserate>651</ds:crudecaserate>
+    <ds:caseageadjusted>497</ds:caseageadjusted>
+    <ds:deaths>3080</ds:deaths>
+    <ds:crudedeathrate>128</ds:crudedeathrate>
+    <ds:deathageadjusted>70</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-r8m5_5cge.r2p5">
+    <socrata:rowID>row-r8m5_5cge.r2p5</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-16</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14392</ds:case_tot>
+    <ds:deaths>65</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-gtwd-bajr~fzv5">
+    <socrata:rowID>row-gtwd-bajr~fzv5</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-17</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8395</ds:case_tot>
+    <ds:crudecaserate>1423</ds:crudecaserate>
+    <ds:caseageadjusted>1617</ds:caseageadjusted>
+    <ds:deaths>357</ds:deaths>
+    <ds:crudedeathrate>60</ds:crudedeathrate>
+    <ds:deathageadjusted>114</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-mvd7~imit~mp9n">
+    <socrata:rowID>row-mvd7~imit~mp9n</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-17</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>41</ds:case_tot>
+    <ds:crudecaserate>429</ds:crudecaserate>
+    <ds:caseageadjusted>467</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-wrpx.2dha-znfg">
+    <socrata:rowID>row-wrpx.2dha-znfg</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-17</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>661</ds:case_tot>
+    <ds:crudecaserate>371</ds:crudecaserate>
+    <ds:caseageadjusted>379</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-ryy5.yrhe~tkx8">
+    <socrata:rowID>row-ryy5.yrhe~tkx8</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-17</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5915</ds:case_tot>
+    <ds:crudecaserate>1528</ds:crudecaserate>
+    <ds:caseageadjusted>1548</ds:caseageadjusted>
+    <ds:deaths>627</ds:deaths>
+    <ds:crudedeathrate>162</ds:crudedeathrate>
+    <ds:deathageadjusted>189</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-m8fj-3yjp~kccz">
+    <socrata:rowID>row-m8fj-3yjp~kccz</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-17</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>120</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-jg58_uj9r-eyei">
+    <socrata:rowID>row-jg58_uj9r-eyei</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-17</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>251</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-yw26~seij~gq8j">
+    <socrata:rowID>row-yw26~seij~gq8j</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-17</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15717</ds:case_tot>
+    <ds:crudecaserate>653</ds:crudecaserate>
+    <ds:caseageadjusted>499</ds:caseageadjusted>
+    <ds:deaths>3089</ds:deaths>
+    <ds:crudedeathrate>128</ds:crudedeathrate>
+    <ds:deathageadjusted>70</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-mq5w_kz23_kgic">
+    <socrata:rowID>row-mq5w_kz23_kgic</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-17</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14340</ds:case_tot>
+    <ds:deaths>64</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-gtbr.ce7i_p7xe">
+    <socrata:rowID>row-gtbr.ce7i_p7xe</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-18</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8454</ds:case_tot>
+    <ds:crudecaserate>1433</ds:crudecaserate>
+    <ds:caseageadjusted>1628</ds:caseageadjusted>
+    <ds:deaths>360</ds:deaths>
+    <ds:crudedeathrate>61</ds:crudedeathrate>
+    <ds:deathageadjusted>115</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-i8a3_sph4~qmku">
+    <socrata:rowID>row-i8a3_sph4~qmku</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-18</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>41</ds:case_tot>
+    <ds:crudecaserate>429</ds:crudecaserate>
+    <ds:caseageadjusted>467</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-xukp~w3eq_ctkn">
+    <socrata:rowID>row-xukp~w3eq_ctkn</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-18</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>662</ds:case_tot>
+    <ds:crudecaserate>371</ds:crudecaserate>
+    <ds:caseageadjusted>380</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-3nh4_e2tf-ppab">
+    <socrata:rowID>row-3nh4_e2tf-ppab</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-18</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5934</ds:case_tot>
+    <ds:crudecaserate>1533</ds:crudecaserate>
+    <ds:caseageadjusted>1553</ds:caseageadjusted>
+    <ds:deaths>631</ds:deaths>
+    <ds:crudedeathrate>163</ds:crudedeathrate>
+    <ds:deathageadjusted>191</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-tncp_vngy.j44k">
+    <socrata:rowID>row-tncp_vngy.j44k</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-18</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>120</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-rdwt_tunz~ekmp">
+    <socrata:rowID>row-rdwt_tunz~ekmp</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-18</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>252</ds:case_tot>
+    <ds:deaths>15</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-ybf6_u4rn-7ej8">
+    <socrata:rowID>row-ybf6_u4rn-7ej8</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-18</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15766</ds:case_tot>
+    <ds:crudecaserate>655</ds:crudecaserate>
+    <ds:caseageadjusted>500</ds:caseageadjusted>
+    <ds:deaths>3097</ds:deaths>
+    <ds:crudedeathrate>129</ds:crudedeathrate>
+    <ds:deathageadjusted>71</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-3d26~ja7g-3z63">
+    <socrata:rowID>row-3d26~ja7g-3z63</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-18</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14328</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-9a9f_gq8x-rx2b">
+    <socrata:rowID>row-9a9f_gq8x-rx2b</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-19</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8515</ds:case_tot>
+    <ds:crudecaserate>1443</ds:crudecaserate>
+    <ds:caseageadjusted>1641</ds:caseageadjusted>
+    <ds:deaths>364</ds:deaths>
+    <ds:crudedeathrate>62</ds:crudedeathrate>
+    <ds:deathageadjusted>116</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-y46c~dab5~hnyk">
+    <socrata:rowID>row-y46c~dab5~hnyk</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-19</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>41</ds:case_tot>
+    <ds:crudecaserate>429</ds:crudecaserate>
+    <ds:caseageadjusted>467</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-h8iu_zufb.f333">
+    <socrata:rowID>row-h8iu_zufb.f333</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-19</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>662</ds:case_tot>
+    <ds:crudecaserate>371</ds:crudecaserate>
+    <ds:caseageadjusted>380</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-f6yz_ywkj~85ev">
+    <socrata:rowID>row-f6yz_ywkj~85ev</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-19</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5953</ds:case_tot>
+    <ds:crudecaserate>1537</ds:crudecaserate>
+    <ds:caseageadjusted>1558</ds:caseageadjusted>
+    <ds:deaths>633</ds:deaths>
+    <ds:crudedeathrate>164</ds:crudedeathrate>
+    <ds:deathageadjusted>192</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-itxx_yqbc~dpnt">
+    <socrata:rowID>row-itxx_yqbc~dpnt</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-19</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>122</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-zbyd.2955_cuxr">
+    <socrata:rowID>row-zbyd.2955_cuxr</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-19</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>253</ds:case_tot>
+    <ds:deaths>15</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-ckq3~bn7i-w5u7">
+    <socrata:rowID>row-ckq3~bn7i-w5u7</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-19</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15835</ds:case_tot>
+    <ds:crudecaserate>657</ds:crudecaserate>
+    <ds:caseageadjusted>502</ds:caseageadjusted>
+    <ds:deaths>3104</ds:deaths>
+    <ds:crudedeathrate>129</ds:crudedeathrate>
+    <ds:deathageadjusted>71</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-xuij-7vj2_twsk">
+    <socrata:rowID>row-xuij-7vj2_twsk</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-19</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14334</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-s3sh_qq7w-ecxi">
+    <socrata:rowID>row-s3sh_qq7w-ecxi</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-20</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8528</ds:case_tot>
+    <ds:crudecaserate>1445</ds:crudecaserate>
+    <ds:caseageadjusted>1643</ds:caseageadjusted>
+    <ds:deaths>365</ds:deaths>
+    <ds:crudedeathrate>62</ds:crudedeathrate>
+    <ds:deathageadjusted>116</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-apdr~6fb6_h8v8">
+    <socrata:rowID>row-apdr~6fb6_h8v8</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-20</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>41</ds:case_tot>
+    <ds:crudecaserate>429</ds:crudecaserate>
+    <ds:caseageadjusted>467</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-d5q8.356b_eigd">
+    <socrata:rowID>row-d5q8.356b_eigd</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-20</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>665</ds:case_tot>
+    <ds:crudecaserate>373</ds:crudecaserate>
+    <ds:caseageadjusted>382</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-si5k.rjrm~k6gu">
+    <socrata:rowID>row-si5k.rjrm~k6gu</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-20</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5958</ds:case_tot>
+    <ds:crudecaserate>1539</ds:crudecaserate>
+    <ds:caseageadjusted>1560</ds:caseageadjusted>
+    <ds:deaths>635</ds:deaths>
+    <ds:crudedeathrate>164</ds:crudedeathrate>
+    <ds:deathageadjusted>192</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-gnt3_ps6k-88fy">
+    <socrata:rowID>row-gnt3_ps6k-88fy</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-20</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>122</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-cv3a~r4kj.sijw">
+    <socrata:rowID>row-cv3a~r4kj.sijw</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-20</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>253</ds:case_tot>
+    <ds:deaths>15</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-nmcw.rw2h_b9qv">
+    <socrata:rowID>row-nmcw.rw2h_b9qv</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-20</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15845</ds:case_tot>
+    <ds:crudecaserate>658</ds:crudecaserate>
+    <ds:caseageadjusted>503</ds:caseageadjusted>
+    <ds:deaths>3110</ds:deaths>
+    <ds:crudedeathrate>129</ds:crudedeathrate>
+    <ds:deathageadjusted>71</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-j2mp.q6dp.f94n">
+    <socrata:rowID>row-j2mp.q6dp.f94n</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-20</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14343</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-2mb8.k73c-4imr">
+    <socrata:rowID>row-2mb8.k73c-4imr</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-21</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8563</ds:case_tot>
+    <ds:crudecaserate>1451</ds:crudecaserate>
+    <ds:caseageadjusted>1649</ds:caseageadjusted>
+    <ds:deaths>365</ds:deaths>
+    <ds:crudedeathrate>62</ds:crudedeathrate>
+    <ds:deathageadjusted>116</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-khrr.2ik4-qzks">
+    <socrata:rowID>row-khrr.2ik4-qzks</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-21</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>41</ds:case_tot>
+    <ds:crudecaserate>429</ds:crudecaserate>
+    <ds:caseageadjusted>467</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-554j.ypes~r375">
+    <socrata:rowID>row-554j.ypes~r375</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-21</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>665</ds:case_tot>
+    <ds:crudecaserate>373</ds:crudecaserate>
+    <ds:caseageadjusted>382</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-2zga_d463-ejg5">
+    <socrata:rowID>row-2zga_d463-ejg5</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-21</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5980</ds:case_tot>
+    <ds:crudecaserate>1544</ds:crudecaserate>
+    <ds:caseageadjusted>1565</ds:caseageadjusted>
+    <ds:deaths>636</ds:deaths>
+    <ds:crudedeathrate>164</ds:crudedeathrate>
+    <ds:deathageadjusted>192</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-k96e.isry-86ym">
+    <socrata:rowID>row-k96e.isry-86ym</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-21</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>121</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-2avg~5632_dfuq">
+    <socrata:rowID>row-2avg~5632_dfuq</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-21</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>253</ds:case_tot>
+    <ds:deaths>15</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-jp2n_vfsx_f793">
+    <socrata:rowID>row-jp2n_vfsx_f793</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-21</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15885</ds:case_tot>
+    <ds:crudecaserate>659</ds:crudecaserate>
+    <ds:caseageadjusted>504</ds:caseageadjusted>
+    <ds:deaths>3113</ds:deaths>
+    <ds:crudedeathrate>129</ds:crudedeathrate>
+    <ds:deathageadjusted>71</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-4uu7.ybem~xxib">
+    <socrata:rowID>row-4uu7.ybem~xxib</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-21</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14274</ds:case_tot>
+    <ds:deaths>61</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-vm7c-uitp-d3r3">
+    <socrata:rowID>row-vm7c-uitp-d3r3</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-22</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8586</ds:case_tot>
+    <ds:crudecaserate>1455</ds:crudecaserate>
+    <ds:caseageadjusted>1654</ds:caseageadjusted>
+    <ds:deaths>366</ds:deaths>
+    <ds:crudedeathrate>62</ds:crudedeathrate>
+    <ds:deathageadjusted>117</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-h98x_petd-9c39">
+    <socrata:rowID>row-h98x_petd-9c39</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-22</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>41</ds:case_tot>
+    <ds:crudecaserate>429</ds:crudecaserate>
+    <ds:caseageadjusted>467</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-dv95.qpti_sz5a">
+    <socrata:rowID>row-dv95.qpti_sz5a</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-22</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>668</ds:case_tot>
+    <ds:crudecaserate>375</ds:crudecaserate>
+    <ds:caseageadjusted>384</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-g75w-b6mg~b78m">
+    <socrata:rowID>row-g75w-b6mg~b78m</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-22</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>5999</ds:case_tot>
+    <ds:crudecaserate>1549</ds:crudecaserate>
+    <ds:caseageadjusted>1571</ds:caseageadjusted>
+    <ds:deaths>638</ds:deaths>
+    <ds:crudedeathrate>165</ds:crudedeathrate>
+    <ds:deathageadjusted>193</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-5j36~8gjw~wvfe">
+    <socrata:rowID>row-5j36~8gjw~wvfe</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-22</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>120</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-rtvh_f5md-6cfv">
+    <socrata:rowID>row-rtvh_f5md-6cfv</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-22</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>253</ds:case_tot>
+    <ds:deaths>15</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-zzf2.8r8n~qagv">
+    <socrata:rowID>row-zzf2.8r8n~qagv</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-22</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15948</ds:case_tot>
+    <ds:crudecaserate>662</ds:crudecaserate>
+    <ds:caseageadjusted>507</ds:caseageadjusted>
+    <ds:deaths>3123</ds:deaths>
+    <ds:crudedeathrate>130</ds:crudedeathrate>
+    <ds:deathageadjusted>71</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-24dm_wy9q~ftpz">
+    <socrata:rowID>row-24dm_wy9q~ftpz</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-22</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14284</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-w3c2-568f-76n9">
+    <socrata:rowID>row-w3c2-568f-76n9</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-23</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8593</ds:case_tot>
+    <ds:crudecaserate>1456</ds:crudecaserate>
+    <ds:caseageadjusted>1656</ds:caseageadjusted>
+    <ds:deaths>368</ds:deaths>
+    <ds:crudedeathrate>62</ds:crudedeathrate>
+    <ds:deathageadjusted>117</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-8itc.z5d6.5qt3">
+    <socrata:rowID>row-8itc.z5d6.5qt3</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-23</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>41</ds:case_tot>
+    <ds:crudecaserate>429</ds:crudecaserate>
+    <ds:caseageadjusted>467</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-4jwx~s2jr.x8fx">
+    <socrata:rowID>row-4jwx~s2jr.x8fx</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-23</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>668</ds:case_tot>
+    <ds:crudecaserate>375</ds:crudecaserate>
+    <ds:caseageadjusted>384</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-jj5r.9sjv.jdkc">
+    <socrata:rowID>row-jj5r.9sjv.jdkc</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-23</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6003</ds:case_tot>
+    <ds:crudecaserate>1550</ds:crudecaserate>
+    <ds:caseageadjusted>1572</ds:caseageadjusted>
+    <ds:deaths>639</ds:deaths>
+    <ds:crudedeathrate>165</ds:crudedeathrate>
+    <ds:deathageadjusted>193</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-y8cu.cii2.agaz">
+    <socrata:rowID>row-y8cu.cii2.agaz</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-23</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>120</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-uvsv-fu7r-bzhx">
+    <socrata:rowID>row-uvsv-fu7r-bzhx</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-23</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>252</ds:case_tot>
+    <ds:deaths>15</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-y9jb~dn4u~idkw">
+    <socrata:rowID>row-y9jb~dn4u~idkw</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-23</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>15952</ds:case_tot>
+    <ds:crudecaserate>662</ds:crudecaserate>
+    <ds:caseageadjusted>507</ds:caseageadjusted>
+    <ds:deaths>3130</ds:deaths>
+    <ds:crudedeathrate>130</ds:crudedeathrate>
+    <ds:deathageadjusted>71</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-98jh-yfx2~42yd">
+    <socrata:rowID>row-98jh-yfx2~42yd</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-23</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14284</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-de7n_rwfw.twm4">
+    <socrata:rowID>row-de7n_rwfw.twm4</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-24</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8644</ds:case_tot>
+    <ds:crudecaserate>1465</ds:crudecaserate>
+    <ds:caseageadjusted>1665</ds:caseageadjusted>
+    <ds:deaths>368</ds:deaths>
+    <ds:crudedeathrate>62</ds:crudedeathrate>
+    <ds:deathageadjusted>117</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-k99k~n9uk_bxzt">
+    <socrata:rowID>row-k99k~n9uk_bxzt</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-24</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>41</ds:case_tot>
+    <ds:crudecaserate>429</ds:crudecaserate>
+    <ds:caseageadjusted>467</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-kria.p7ps_rxyn">
+    <socrata:rowID>row-kria.p7ps_rxyn</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-24</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>669</ds:case_tot>
+    <ds:crudecaserate>375</ds:crudecaserate>
+    <ds:caseageadjusted>384</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-z9rb.t8bw~zcid">
+    <socrata:rowID>row-z9rb.t8bw~zcid</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-24</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6027</ds:case_tot>
+    <ds:crudecaserate>1557</ds:crudecaserate>
+    <ds:caseageadjusted>1578</ds:caseageadjusted>
+    <ds:deaths>641</ds:deaths>
+    <ds:crudedeathrate>166</ds:crudedeathrate>
+    <ds:deathageadjusted>194</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-azqt_6knj.auzd">
+    <socrata:rowID>row-azqt_6knj.auzd</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-24</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>120</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-zdmb_ydke_8n95">
+    <socrata:rowID>row-zdmb_ydke_8n95</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-24</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>252</ds:case_tot>
+    <ds:deaths>15</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-9v8b.59ee-q4gr">
+    <socrata:rowID>row-9v8b.59ee-q4gr</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-24</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16024</ds:case_tot>
+    <ds:crudecaserate>665</ds:crudecaserate>
+    <ds:caseageadjusted>509</ds:caseageadjusted>
+    <ds:deaths>3139</ds:deaths>
+    <ds:crudedeathrate>130</ds:crudedeathrate>
+    <ds:deathageadjusted>72</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-pw5z-mt26_fp95">
+    <socrata:rowID>row-pw5z-mt26_fp95</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-24</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14217</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-gzkt-tdnj_hukp">
+    <socrata:rowID>row-gzkt-tdnj_hukp</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-25</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8655</ds:case_tot>
+    <ds:crudecaserate>1467</ds:crudecaserate>
+    <ds:caseageadjusted>1668</ds:caseageadjusted>
+    <ds:deaths>370</ds:deaths>
+    <ds:crudedeathrate>63</ds:crudedeathrate>
+    <ds:deathageadjusted>118</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-chnh_p53c~ri3d">
+    <socrata:rowID>row-chnh_p53c~ri3d</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-25</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>42</ds:case_tot>
+    <ds:crudecaserate>439</ds:crudecaserate>
+    <ds:caseageadjusted>477</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-ezv3~syc9~6nfs">
+    <socrata:rowID>row-ezv3~syc9~6nfs</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-25</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>669</ds:case_tot>
+    <ds:crudecaserate>375</ds:crudecaserate>
+    <ds:caseageadjusted>384</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-wnps.hzay.wkxe">
+    <socrata:rowID>row-wnps.hzay.wkxe</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-25</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6037</ds:case_tot>
+    <ds:crudecaserate>1559</ds:crudecaserate>
+    <ds:caseageadjusted>1581</ds:caseageadjusted>
+    <ds:deaths>642</ds:deaths>
+    <ds:crudedeathrate>166</ds:crudedeathrate>
+    <ds:deathageadjusted>194</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-dx8p-6g9m.wavr">
+    <socrata:rowID>row-dx8p-6g9m.wavr</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-25</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>120</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-ia7e.9vyg-r4hk">
+    <socrata:rowID>row-ia7e.9vyg-r4hk</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-25</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>252</ds:case_tot>
+    <ds:deaths>15</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-8tuz~mf4b~w4yg">
+    <socrata:rowID>row-8tuz~mf4b~w4yg</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-25</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16051</ds:case_tot>
+    <ds:crudecaserate>666</ds:crudecaserate>
+    <ds:caseageadjusted>510</ds:caseageadjusted>
+    <ds:deaths>3145</ds:deaths>
+    <ds:crudedeathrate>131</ds:crudedeathrate>
+    <ds:deathageadjusted>72</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-9ari~iut5~nn8d">
+    <socrata:rowID>row-9ari~iut5~nn8d</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-25</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14233</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-z8uz~d2nq~x4p5">
+    <socrata:rowID>row-z8uz~d2nq~x4p5</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-26</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8680</ds:case_tot>
+    <ds:crudecaserate>1471</ds:crudecaserate>
+    <ds:caseageadjusted>1673</ds:caseageadjusted>
+    <ds:deaths>370</ds:deaths>
+    <ds:crudedeathrate>63</ds:crudedeathrate>
+    <ds:deathageadjusted>118</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-wte2_xvf5-dyuk">
+    <socrata:rowID>row-wte2_xvf5-dyuk</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-26</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>49</ds:case_tot>
+    <ds:crudecaserate>512</ds:crudecaserate>
+    <ds:caseageadjusted>565</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-hztv_zfi2_br44">
+    <socrata:rowID>row-hztv_zfi2_br44</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-26</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>669</ds:case_tot>
+    <ds:crudecaserate>375</ds:crudecaserate>
+    <ds:caseageadjusted>384</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-hkcs~bdyp_2fi3">
+    <socrata:rowID>row-hkcs~bdyp_2fi3</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-26</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6045</ds:case_tot>
+    <ds:crudecaserate>1561</ds:crudecaserate>
+    <ds:caseageadjusted>1583</ds:caseageadjusted>
+    <ds:deaths>642</ds:deaths>
+    <ds:crudedeathrate>166</ds:crudedeathrate>
+    <ds:deathageadjusted>194</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-6xaw-bppv.28yv">
+    <socrata:rowID>row-6xaw-bppv.28yv</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-26</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>121</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-mzzi_8p5j_7fmy">
+    <socrata:rowID>row-mzzi_8p5j_7fmy</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-26</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>253</ds:case_tot>
+    <ds:deaths>15</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-mmir-e85b-2vzc">
+    <socrata:rowID>row-mmir-e85b-2vzc</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-26</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16101</ds:case_tot>
+    <ds:crudecaserate>668</ds:crudecaserate>
+    <ds:caseageadjusted>511</ds:caseageadjusted>
+    <ds:deaths>3149</ds:deaths>
+    <ds:crudedeathrate>131</ds:crudedeathrate>
+    <ds:deathageadjusted>72</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-s44u-btew-57i5">
+    <socrata:rowID>row-s44u-btew-57i5</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-26</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14288</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-2ka5.bvx2_t4r3">
+    <socrata:rowID>row-2ka5.bvx2_t4r3</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-27</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8701</ds:case_tot>
+    <ds:crudecaserate>1475</ds:crudecaserate>
+    <ds:caseageadjusted>1677</ds:caseageadjusted>
+    <ds:deaths>373</ds:deaths>
+    <ds:crudedeathrate>63</ds:crudedeathrate>
+    <ds:deathageadjusted>119</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-3j6k~t5w4.ibiu">
+    <socrata:rowID>row-3j6k~t5w4.ibiu</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-27</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>49</ds:case_tot>
+    <ds:crudecaserate>512</ds:crudecaserate>
+    <ds:caseageadjusted>565</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-yucx.d8xp.aqxg">
+    <socrata:rowID>row-yucx.d8xp.aqxg</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-27</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>670</ds:case_tot>
+    <ds:crudecaserate>376</ds:crudecaserate>
+    <ds:caseageadjusted>384</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-tw4m_xcsb.gfq9">
+    <socrata:rowID>row-tw4m_xcsb.gfq9</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-27</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6053</ds:case_tot>
+    <ds:crudecaserate>1563</ds:crudecaserate>
+    <ds:caseageadjusted>1585</ds:caseageadjusted>
+    <ds:deaths>642</ds:deaths>
+    <ds:crudedeathrate>166</ds:crudedeathrate>
+    <ds:deathageadjusted>194</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-8ezy_cy42.s2bt">
+    <socrata:rowID>row-8ezy_cy42.s2bt</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-27</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>122</ds:case_tot>
+    <ds:deaths>26</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-uxsi-wshd~6z29">
+    <socrata:rowID>row-uxsi-wshd~6z29</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-27</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>254</ds:case_tot>
+    <ds:deaths>15</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-vj5d.pjdq~yi3s">
+    <socrata:rowID>row-vj5d.pjdq~yi3s</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-27</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16121</ds:case_tot>
+    <ds:crudecaserate>669</ds:crudecaserate>
+    <ds:caseageadjusted>512</ds:caseageadjusted>
+    <ds:deaths>3151</ds:deaths>
+    <ds:crudedeathrate>131</ds:crudedeathrate>
+    <ds:deathageadjusted>72</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-hqwk-q9qn~8uws">
+    <socrata:rowID>row-hqwk-q9qn~8uws</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-27</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14333</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-4w33~8mht~4hxp">
+    <socrata:rowID>row-4w33~8mht~4hxp</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-28</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8741</ds:case_tot>
+    <ds:crudecaserate>1481</ds:crudecaserate>
+    <ds:caseageadjusted>1684</ds:caseageadjusted>
+    <ds:deaths>373</ds:deaths>
+    <ds:crudedeathrate>63</ds:crudedeathrate>
+    <ds:deathageadjusted>119</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-w6nb.w45p-j992">
+    <socrata:rowID>row-w6nb.w45p-j992</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-28</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>51</ds:case_tot>
+    <ds:crudecaserate>533</ds:crudecaserate>
+    <ds:caseageadjusted>587</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-cacs_kp42-uzjb">
+    <socrata:rowID>row-cacs_kp42-uzjb</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-28</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>677</ds:case_tot>
+    <ds:crudecaserate>379</ds:crudecaserate>
+    <ds:caseageadjusted>388</ds:caseageadjusted>
+    <ds:deaths>45</ds:deaths>
+    <ds:crudedeathrate>25</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-cvc7.wef5-d6ii">
+    <socrata:rowID>row-cvc7.wef5-d6ii</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-28</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6074</ds:case_tot>
+    <ds:crudecaserate>1568</ds:crudecaserate>
+    <ds:caseageadjusted>1591</ds:caseageadjusted>
+    <ds:deaths>642</ds:deaths>
+    <ds:crudedeathrate>166</ds:crudedeathrate>
+    <ds:deathageadjusted>194</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-ehrw~7ikf-bk5w">
+    <socrata:rowID>row-ehrw~7ikf-bk5w</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-28</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>125</ds:case_tot>
+    <ds:deaths>27</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-i8vk_6ra9~2aja">
+    <socrata:rowID>row-i8vk_6ra9~2aja</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-28</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>255</ds:case_tot>
+    <ds:deaths>15</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-8t37.zvg2_ajnj">
+    <socrata:rowID>row-8t37.zvg2_ajnj</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-28</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16162</ds:case_tot>
+    <ds:crudecaserate>671</ds:crudecaserate>
+    <ds:caseageadjusted>514</ds:caseageadjusted>
+    <ds:deaths>3154</ds:deaths>
+    <ds:crudedeathrate>131</ds:crudedeathrate>
+    <ds:deathageadjusted>72</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-pj3a-axtu.f4gk">
+    <socrata:rowID>row-pj3a-axtu.f4gk</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-28</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14277</ds:case_tot>
+    <ds:deaths>62</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-y28n_4q8c~dq9i">
+    <socrata:rowID>row-y28n_4q8c~dq9i</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-29</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8795</ds:case_tot>
+    <ds:crudecaserate>1490</ds:crudecaserate>
+    <ds:caseageadjusted>1693</ds:caseageadjusted>
+    <ds:deaths>373</ds:deaths>
+    <ds:crudedeathrate>63</ds:crudedeathrate>
+    <ds:deathageadjusted>119</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-7tnd.jap3~f95x">
+    <socrata:rowID>row-7tnd.jap3~f95x</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-29</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>51</ds:case_tot>
+    <ds:crudecaserate>533</ds:crudecaserate>
+    <ds:caseageadjusted>583</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-wc2f~ih77-ikun">
+    <socrata:rowID>row-wc2f~ih77-ikun</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-29</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>677</ds:case_tot>
+    <ds:crudecaserate>379</ds:crudecaserate>
+    <ds:caseageadjusted>388</ds:caseageadjusted>
+    <ds:deaths>46</ds:deaths>
+    <ds:crudedeathrate>26</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-dthb.r3r8.mkm5">
+    <socrata:rowID>row-dthb.r3r8.mkm5</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-29</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6097</ds:case_tot>
+    <ds:crudecaserate>1574</ds:crudecaserate>
+    <ds:caseageadjusted>1597</ds:caseageadjusted>
+    <ds:deaths>643</ds:deaths>
+    <ds:crudedeathrate>166</ds:crudedeathrate>
+    <ds:deathageadjusted>194</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-hhe4-xmd3_s257">
+    <socrata:rowID>row-hhe4-xmd3_s257</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-29</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>127</ds:case_tot>
+    <ds:deaths>27</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-pe8d-8pm7_scr2">
+    <socrata:rowID>row-pe8d-8pm7_scr2</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-29</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>257</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-xvcc-j4mr.k7zs">
+    <socrata:rowID>row-xvcc-j4mr.k7zs</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-29</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16258</ds:case_tot>
+    <ds:crudecaserate>675</ds:crudecaserate>
+    <ds:caseageadjusted>517</ds:caseageadjusted>
+    <ds:deaths>3165</ds:deaths>
+    <ds:crudedeathrate>131</ds:crudedeathrate>
+    <ds:deathageadjusted>72</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-gqah~aa8w_h6zg">
+    <socrata:rowID>row-gqah~aa8w_h6zg</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-29</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14252</ds:case_tot>
+    <ds:deaths>50</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-t5k2~4ypi.h3rc">
+    <socrata:rowID>row-t5k2~4ypi.h3rc</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-30</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8810</ds:case_tot>
+    <ds:crudecaserate>1493</ds:crudecaserate>
+    <ds:caseageadjusted>1695</ds:caseageadjusted>
+    <ds:deaths>374</ds:deaths>
+    <ds:crudedeathrate>63</ds:crudedeathrate>
+    <ds:deathageadjusted>119</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-wqk3.8wc5~zksp">
+    <socrata:rowID>row-wqk3.8wc5~zksp</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-30</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>46</ds:case_tot>
+    <ds:crudecaserate>481</ds:crudecaserate>
+    <ds:caseageadjusted>527</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-2gsc~jaue.3sug">
+    <socrata:rowID>row-2gsc~jaue.3sug</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-30</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>677</ds:case_tot>
+    <ds:crudecaserate>379</ds:crudecaserate>
+    <ds:caseageadjusted>388</ds:caseageadjusted>
+    <ds:deaths>46</ds:deaths>
+    <ds:crudedeathrate>26</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-96a9_kcxd-u59y">
+    <socrata:rowID>row-96a9_kcxd-u59y</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-30</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6108</ds:case_tot>
+    <ds:crudecaserate>1577</ds:crudecaserate>
+    <ds:caseageadjusted>1600</ds:caseageadjusted>
+    <ds:deaths>641</ds:deaths>
+    <ds:crudedeathrate>166</ds:crudedeathrate>
+    <ds:deathageadjusted>194</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-erfy~ca3r.kyjb">
+    <socrata:rowID>row-erfy~ca3r.kyjb</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-30</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>128</ds:case_tot>
+    <ds:deaths>27</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-8ugj-d6vm~pbyc">
+    <socrata:rowID>row-8ugj-d6vm~pbyc</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-30</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>265</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-jhw5.ncm9-u8sn">
+    <socrata:rowID>row-jhw5.ncm9-u8sn</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-30</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16317</ds:case_tot>
+    <ds:crudecaserate>677</ds:crudecaserate>
+    <ds:caseageadjusted>518</ds:caseageadjusted>
+    <ds:deaths>3168</ds:deaths>
+    <ds:crudedeathrate>132</ds:crudedeathrate>
+    <ds:deathageadjusted>72</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-c2gd.vx7h_r4qc">
+    <socrata:rowID>row-c2gd.vx7h_r4qc</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-06-30</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14221</ds:case_tot>
+    <ds:deaths>50</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-xmr6-9nea-jfjy">
+    <socrata:rowID>row-xmr6-9nea-jfjy</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-01</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8826</ds:case_tot>
+    <ds:crudecaserate>1496</ds:crudecaserate>
+    <ds:caseageadjusted>1699</ds:caseageadjusted>
+    <ds:deaths>374</ds:deaths>
+    <ds:crudedeathrate>63</ds:crudedeathrate>
+    <ds:deathageadjusted>119</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-wyib~ihhr-2ntj">
+    <socrata:rowID>row-wyib~ihhr-2ntj</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-01</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>46</ds:case_tot>
+    <ds:crudecaserate>481</ds:crudecaserate>
+    <ds:caseageadjusted>527</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-gaax_t99f_4k7r">
+    <socrata:rowID>row-gaax_t99f_4k7r</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-01</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>677</ds:case_tot>
+    <ds:crudecaserate>379</ds:crudecaserate>
+    <ds:caseageadjusted>388</ds:caseageadjusted>
+    <ds:deaths>46</ds:deaths>
+    <ds:crudedeathrate>26</ds:crudedeathrate>
+    <ds:deathageadjusted>38</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-edm8_et3u-r3qe">
+    <socrata:rowID>row-edm8_et3u-r3qe</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-01</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6122</ds:case_tot>
+    <ds:crudecaserate>1581</ds:crudecaserate>
+    <ds:caseageadjusted>1603</ds:caseageadjusted>
+    <ds:deaths>642</ds:deaths>
+    <ds:crudedeathrate>166</ds:crudedeathrate>
+    <ds:deathageadjusted>194</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-5c5c-8ps7-b624">
+    <socrata:rowID>row-5c5c-8ps7-b624</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-01</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>128</ds:case_tot>
+    <ds:deaths>27</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-nuhk-prc6_v6jh">
+    <socrata:rowID>row-nuhk-prc6_v6jh</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-01</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>265</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-7adm.acuk-u9ie">
+    <socrata:rowID>row-7adm.acuk-u9ie</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-01</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16380</ds:case_tot>
+    <ds:crudecaserate>680</ds:crudecaserate>
+    <ds:caseageadjusted>520</ds:caseageadjusted>
+    <ds:deaths>3170</ds:deaths>
+    <ds:crudedeathrate>132</ds:crudedeathrate>
+    <ds:deathageadjusted>72</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-czke-m8rt~bahq">
+    <socrata:rowID>row-czke-m8rt~bahq</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-01</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14202</ds:case_tot>
+    <ds:deaths>49</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-hi2g-vs56_itdm">
+    <socrata:rowID>row-hi2g-vs56_itdm</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-02</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8857</ds:case_tot>
+    <ds:crudecaserate>1501</ds:crudecaserate>
+    <ds:caseageadjusted>1705</ds:caseageadjusted>
+    <ds:deaths>374</ds:deaths>
+    <ds:crudedeathrate>63</ds:crudedeathrate>
+    <ds:deathageadjusted>119</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-szza_9sii_rpvq">
+    <socrata:rowID>row-szza_9sii_rpvq</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-02</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>45</ds:case_tot>
+    <ds:crudecaserate>470</ds:crudecaserate>
+    <ds:caseageadjusted>519</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-262w-rx3a_qkwx">
+    <socrata:rowID>row-262w-rx3a_qkwx</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-02</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>680</ds:case_tot>
+    <ds:crudecaserate>381</ds:crudecaserate>
+    <ds:caseageadjusted>390</ds:caseageadjusted>
+    <ds:deaths>47</ds:deaths>
+    <ds:crudedeathrate>26</ds:crudedeathrate>
+    <ds:deathageadjusted>39</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-tc2c~xq44_jb8d">
+    <socrata:rowID>row-tc2c~xq44_jb8d</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-02</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6134</ds:case_tot>
+    <ds:crudecaserate>1584</ds:crudecaserate>
+    <ds:caseageadjusted>1606</ds:caseageadjusted>
+    <ds:deaths>644</ds:deaths>
+    <ds:crudedeathrate>166</ds:crudedeathrate>
+    <ds:deathageadjusted>195</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-aemy.t8fa~qp3r">
+    <socrata:rowID>row-aemy.t8fa~qp3r</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-02</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>128</ds:case_tot>
+    <ds:deaths>27</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-enmp-j6wg~ycmu">
+    <socrata:rowID>row-enmp-j6wg~ycmu</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-02</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>264</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-ynjn_p98x~vw36">
+    <socrata:rowID>row-ynjn_p98x~vw36</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-02</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16433</ds:case_tot>
+    <ds:crudecaserate>682</ds:crudecaserate>
+    <ds:caseageadjusted>522</ds:caseageadjusted>
+    <ds:deaths>3176</ds:deaths>
+    <ds:crudedeathrate>132</ds:crudedeathrate>
+    <ds:deathageadjusted>72</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-ccqg_v8mn~ieia">
+    <socrata:rowID>row-ccqg_v8mn~ieia</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-02</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14176</ds:case_tot>
+    <ds:deaths>49</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-8t2x.qjq9-95da">
+    <socrata:rowID>row-8t2x.qjq9-95da</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-05</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8893</ds:case_tot>
+    <ds:crudecaserate>1507</ds:crudecaserate>
+    <ds:caseageadjusted>1712</ds:caseageadjusted>
+    <ds:deaths>374</ds:deaths>
+    <ds:crudedeathrate>63</ds:crudedeathrate>
+    <ds:deathageadjusted>119</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-xu9m~ycbq-224s">
+    <socrata:rowID>row-xu9m~ycbq-224s</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-05</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>45</ds:case_tot>
+    <ds:crudecaserate>470</ds:crudecaserate>
+    <ds:caseageadjusted>519</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-ha7w-vyfw~paeh">
+    <socrata:rowID>row-ha7w-vyfw~paeh</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-05</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>681</ds:case_tot>
+    <ds:crudecaserate>382</ds:crudecaserate>
+    <ds:caseageadjusted>391</ds:caseageadjusted>
+    <ds:deaths>47</ds:deaths>
+    <ds:crudedeathrate>26</ds:crudedeathrate>
+    <ds:deathageadjusted>39</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-s9qx_pk67_acvj">
+    <socrata:rowID>row-s9qx_pk67_acvj</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-05</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6144</ds:case_tot>
+    <ds:crudecaserate>1587</ds:crudecaserate>
+    <ds:caseageadjusted>1608</ds:caseageadjusted>
+    <ds:deaths>644</ds:deaths>
+    <ds:crudedeathrate>166</ds:crudedeathrate>
+    <ds:deathageadjusted>195</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-h7dc-kb4d~7vqx">
+    <socrata:rowID>row-h7dc-kb4d~7vqx</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-05</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>129</ds:case_tot>
+    <ds:deaths>27</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-8xsa-gxzm-ah7z">
+    <socrata:rowID>row-8xsa-gxzm-ah7z</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-05</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>266</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-5aqg-5gbf_duqa">
+    <socrata:rowID>row-5aqg-5gbf_duqa</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-05</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16492</ds:case_tot>
+    <ds:crudecaserate>685</ds:crudecaserate>
+    <ds:caseageadjusted>524</ds:caseageadjusted>
+    <ds:deaths>3179</ds:deaths>
+    <ds:crudedeathrate>132</ds:crudedeathrate>
+    <ds:deathageadjusted>72</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-sjwq~zkjh~kd35">
+    <socrata:rowID>row-sjwq~zkjh~kd35</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-05</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14326</ds:case_tot>
+    <ds:deaths>49</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-zb4u.iw7s-76pn">
+    <socrata:rowID>row-zb4u.iw7s-76pn</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-06</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8904</ds:case_tot>
+    <ds:crudecaserate>1509</ds:crudecaserate>
+    <ds:caseageadjusted>1715</ds:caseageadjusted>
+    <ds:deaths>374</ds:deaths>
+    <ds:crudedeathrate>63</ds:crudedeathrate>
+    <ds:deathageadjusted>119</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-tpk7_p2dn_i44k">
+    <socrata:rowID>row-tpk7_p2dn_i44k</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-06</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>45</ds:case_tot>
+    <ds:crudecaserate>470</ds:crudecaserate>
+    <ds:caseageadjusted>519</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-qgbr_rkpw_f3iv">
+    <socrata:rowID>row-qgbr_rkpw_f3iv</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-06</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>681</ds:case_tot>
+    <ds:crudecaserate>382</ds:crudecaserate>
+    <ds:caseageadjusted>391</ds:caseageadjusted>
+    <ds:deaths>47</ds:deaths>
+    <ds:crudedeathrate>26</ds:crudedeathrate>
+    <ds:deathageadjusted>39</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-rhei-bszb_93eb">
+    <socrata:rowID>row-rhei-bszb_93eb</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-06</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6148</ds:case_tot>
+    <ds:crudecaserate>1588</ds:crudecaserate>
+    <ds:caseageadjusted>1610</ds:caseageadjusted>
+    <ds:deaths>644</ds:deaths>
+    <ds:crudedeathrate>166</ds:crudedeathrate>
+    <ds:deathageadjusted>195</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-eapx-5rcu~arnp">
+    <socrata:rowID>row-eapx-5rcu~arnp</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-06</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>129</ds:case_tot>
+    <ds:deaths>27</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-e9kz.udjg~zehx">
+    <socrata:rowID>row-e9kz.udjg~zehx</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-06</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>263</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-7k9n_39ws_q895">
+    <socrata:rowID>row-7k9n_39ws_q895</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-06</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16517</ds:case_tot>
+    <ds:crudecaserate>686</ds:crudecaserate>
+    <ds:caseageadjusted>525</ds:caseageadjusted>
+    <ds:deaths>3179</ds:deaths>
+    <ds:crudedeathrate>132</ds:crudedeathrate>
+    <ds:deathageadjusted>72</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-abcv.in5y-jqbc">
+    <socrata:rowID>row-abcv.in5y-jqbc</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-06</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14346</ds:case_tot>
+    <ds:deaths>49</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-97z9~b9zv_xvnu">
+    <socrata:rowID>row-97z9~b9zv_xvnu</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-07</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8933</ds:case_tot>
+    <ds:crudecaserate>1514</ds:crudecaserate>
+    <ds:caseageadjusted>1720</ds:caseageadjusted>
+    <ds:deaths>375</ds:deaths>
+    <ds:crudedeathrate>64</ds:crudedeathrate>
+    <ds:deathageadjusted>120</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-isvd.fwga~5tyj">
+    <socrata:rowID>row-isvd.fwga~5tyj</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-07</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>46</ds:case_tot>
+    <ds:crudecaserate>481</ds:crudecaserate>
+    <ds:caseageadjusted>529</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-nix4_y2iz.8e7h">
+    <socrata:rowID>row-nix4_y2iz.8e7h</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-07</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>681</ds:case_tot>
+    <ds:crudecaserate>382</ds:crudecaserate>
+    <ds:caseageadjusted>391</ds:caseageadjusted>
+    <ds:deaths>47</ds:deaths>
+    <ds:crudedeathrate>26</ds:crudedeathrate>
+    <ds:deathageadjusted>39</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-5thx.zks7_gum2">
+    <socrata:rowID>row-5thx.zks7_gum2</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-07</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6161</ds:case_tot>
+    <ds:crudecaserate>1591</ds:crudecaserate>
+    <ds:caseageadjusted>1613</ds:caseageadjusted>
+    <ds:deaths>644</ds:deaths>
+    <ds:crudedeathrate>166</ds:crudedeathrate>
+    <ds:deathageadjusted>195</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-vcwu.2rxb-n3ga">
+    <socrata:rowID>row-vcwu.2rxb-n3ga</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-07</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>130</ds:case_tot>
+    <ds:deaths>27</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-tq5n~6ak8.uyzu">
+    <socrata:rowID>row-tq5n~6ak8.uyzu</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-07</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>265</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-aei4.8jct.7gen">
+    <socrata:rowID>row-aei4.8jct.7gen</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-07</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16564</ds:case_tot>
+    <ds:crudecaserate>688</ds:crudecaserate>
+    <ds:caseageadjusted>526</ds:caseageadjusted>
+    <ds:deaths>3182</ds:deaths>
+    <ds:crudedeathrate>132</ds:crudedeathrate>
+    <ds:deathageadjusted>73</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-r5vs.hvr6_qhs9">
+    <socrata:rowID>row-r5vs.hvr6_qhs9</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-07</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14328</ds:case_tot>
+    <ds:deaths>50</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-enqs~my5x~sqwm">
+    <socrata:rowID>row-enqs~my5x~sqwm</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-08</ds:dateupdated>
+    <ds:hisp_race>Hispanic</ds:hisp_race>
+    <ds:total_pop>589809</ds:total_pop>
+    <ds:case_tot>8958</ds:case_tot>
+    <ds:crudecaserate>1518</ds:crudecaserate>
+    <ds:caseageadjusted>1724</ds:caseageadjusted>
+    <ds:deaths>376</ds:deaths>
+    <ds:crudedeathrate>64</ds:crudedeathrate>
+    <ds:deathageadjusted>120</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-svxm~hp69-j83s">
+    <socrata:rowID>row-svxm~hp69-j83s</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-08</ds:dateupdated>
+    <ds:hisp_race>American Indian or Alaskan Native</ds:hisp_race>
+    <ds:total_pop>9566</ds:total_pop>
+    <ds:case_tot>46</ds:case_tot>
+    <ds:crudecaserate>481</ds:crudecaserate>
+    <ds:caseageadjusted>529</ds:caseageadjusted>
+    <ds:deaths>2</ds:deaths>
+    <ds:crudedeathrate>21</ds:crudedeathrate></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-f32k~6j3r-xm5x">
+    <socrata:rowID>row-f32k~6j3r-xm5x</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-08</ds:dateupdated>
+    <ds:hisp_race>Asian or Pacific Islander</ds:hisp_race>
+    <ds:total_pop>177966</ds:total_pop>
+    <ds:case_tot>682</ds:case_tot>
+    <ds:crudecaserate>383</ds:crudecaserate>
+    <ds:caseageadjusted>392</ds:caseageadjusted>
+    <ds:deaths>47</ds:deaths>
+    <ds:crudedeathrate>26</ds:crudedeathrate>
+    <ds:deathageadjusted>39</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-pn3u.37s9~achn">
+    <socrata:rowID>row-pn3u.37s9~achn</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-08</ds:dateupdated>
+    <ds:hisp_race>Black</ds:hisp_race>
+    <ds:total_pop>387134</ds:total_pop>
+    <ds:case_tot>6176</ds:case_tot>
+    <ds:crudecaserate>1595</ds:crudecaserate>
+    <ds:caseageadjusted>1617</ds:caseageadjusted>
+    <ds:deaths>646</ds:deaths>
+    <ds:crudedeathrate>167</ds:crudedeathrate>
+    <ds:deathageadjusted>195</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-i5b2.9q7a.4rj6">
+    <socrata:rowID>row-i5b2.9q7a.4rj6</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-08</ds:dateupdated>
+    <ds:hisp_race>Multiracial</ds:hisp_race>
+    <ds:case_tot>131</ds:case_tot>
+    <ds:deaths>27</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-jyte-pi6b_7mej">
+    <socrata:rowID>row-jyte-pi6b_7mej</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-08</ds:dateupdated>
+    <ds:hisp_race>Other</ds:hisp_race>
+    <ds:case_tot>266</ds:case_tot>
+    <ds:deaths>16</ds:deaths></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-db6j-db3c.26g7">
+    <socrata:rowID>row-db6j-db3c.26g7</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-08</ds:dateupdated>
+    <ds:hisp_race>White</ds:hisp_race>
+    <ds:total_pop>2408190</ds:total_pop>
+    <ds:case_tot>16597</ds:case_tot>
+    <ds:crudecaserate>689</ds:crudecaserate>
+    <ds:caseageadjusted>528</ds:caseageadjusted>
+    <ds:deaths>3184</ds:deaths>
+    <ds:crudedeathrate>132</ds:crudedeathrate>
+    <ds:deathageadjusted>73</ds:deathageadjusted></dsbase:_7rne-efic>
+<dsbase:_7rne-efic rdf:about="https://data.ct.gov/resource/_7rne-efic/row-bhq4~mhg8.52nf">
+    <socrata:rowID>row-bhq4~mhg8.52nf</socrata:rowID>
+    <rdfs:member rdf:resource="https://data.ct.gov/resource/_7rne-efic"/>
+    <ds:dateupdated>2020-07-08</ds:dateupdated>
+    <ds:hisp_race>Unknown</ds:hisp_race>
+    <ds:case_tot>14353</ds:case_tot>
+    <ds:deaths>50</ds:deaths></dsbase:_7rne-efic></rdf:RDF>

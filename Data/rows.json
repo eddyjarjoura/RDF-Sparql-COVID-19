@@ -1,0 +1,1205 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "7rne-efic",
+      "name" : "COVID-19 Cases and Deaths by Race/Ethnicity",
+      "attribution" : "Department of Public Health",
+      "attributionLink" : "https://portal.ct.gov/coronavirus",
+      "averageRating" : 0,
+      "category" : "Health and Human Services",
+      "createdAt" : 1587403035,
+      "description" : "COVID-19 cases and associated deaths that have been reported among Connecticut residents, broken down by race and ethnicity. All data in this report are preliminary; data for previous dates will be updated as new reports are received and data errors are corrected. Deaths reported to the either the Office of the Chief Medical Examiner (OCME) or Department of Public Health (DPH) are included in the COVID-19 update.\n\nThe following data show the number of COVID-19 cases and associated deaths per 100,000 population by race and ethnicity. Crude rates represent the total cases or deaths per 100,000 people. Age-adjusted rates consider the age of the person at diagnosis or death when estimating the rate and use a standardized population to provide a fair comparison between population groups with different age distributions. Age-adjustment is important in Connecticut as the median age of among the non-Hispanic white population is 47 years, whereas it is 34 years among non-Hispanic blacks, and 29 years among Hispanics. Because most non-Hispanic white residents who died were over 75 years of age, the age-adjusted rates are lower than the unadjusted rates. In contrast, Hispanic residents who died tend to be younger than 75 years of age which results in higher age-adjusted rates.\n\nThe age-adjusted rates are directly standardized using the 2018 ASRH Connecticut population estimate denominators (available here: https://portal.ct.gov/DPH/Health-Information-Systems--Reporting/Population/Annual-State--County-Population-with-Demographics). \n \nRates are standardized to the 2000 US Millions Standard population (data available here: https://seer.cancer.gov/stdpopulations/). Standardization was done using 19 age groups (0, 1-4, 5-9, 10-14, ..., 80-84, 85 years and older). More information about direct standardization for age adjustment is available here: https://www.cdc.gov/nchs/data/statnt/statnt06rv.pdf  \n\nCategories are mutually exclusive. The category “multiracial” includes people who answered ‘yes’ to more than one race category. Counts may not add up to total case counts as data on race and ethnicity may be missing. Age adjusted rates calculated only for groups with more than 20 deaths. Abbreviation: NH=Non-Hispanic.\n\nThis dataset will be updated on a daily basis. Data are subject to future revision as reporting changes.\n\nStarting in July 2020, this dataset will be updated every weekday. \n\nAdditional notes:\nA delay in the data pull schedule occurred on 06/23/2020. Data from 06/22/2020 was processed on 06/23/2020 at 3:30 PM. The normal data cycle resumed with the data for 06/23/2020.\n\nA network outage on 05/19/2020 resulted in a change in the data pull schedule. Data from 5/19/2020 was processed on 05/20/2020 at 12:00 PM. Data from 5/20/2020 was processed on 5/20/2020 8:30 PM. The normal data cycle resumed on 05/20/2020 with the 8:30 PM data pull. As a result of the network outage, the timestamp on the datasets on the Open Data Portal differ from the timestamp in DPH's daily PDF reports.",
+      "displayType" : "table",
+      "downloadCount" : 1837,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "licenseId" : "PUBLIC_DOMAIN",
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 34314641,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1591128646,
+      "publicationGroup" : 17044933,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1594325414,
+      "rowsUpdatedBy" : "rfiw-8538",
+      "tableId" : 17189847,
+      "totalTimesRated" : 0,
+      "viewCount" : 2674,
+      "viewLastModified" : 1593720998,
+      "viewType" : "tabular",
+      "approvals" : [ {
+        "reviewedAt" : 1588713956,
+        "reviewedAutomatically" : true,
+        "state" : "approved",
+        "submissionId" : 2273996,
+        "submissionObject" : "public_audience_request",
+        "submissionOutcome" : "change_audience",
+        "submittedAt" : 1588713956,
+        "workflowId" : 2184,
+        "submissionDetails" : {
+          "permissionType" : "READ"
+        },
+        "submissionOutcomeApplication" : {
+          "endedAt" : 1588713957,
+          "failureCount" : 0,
+          "startedAt" : 1588713956,
+          "status" : "success"
+        },
+        "submitter" : {
+          "id" : "rfiw-8538",
+          "displayName" : "Pauline Zaldonis"
+        }
+      } ],
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 471977524,
+        "name" : "Date updated",
+        "dataTypeName" : "calendar_date",
+        "description" : "Date dataset last updated",
+        "fieldName" : "dateupdated",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 99140695,
+        "cachedContents" : {
+          "non_null" : "382",
+          "largest" : "2020-07-08T00:00:00.000",
+          "null" : "0",
+          "top" : [ {
+            "item" : "2020-06-28T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-06-04T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-05-24T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-07-01T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-06-12T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-05-22T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-05-21T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-06-08T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-06-02T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-06-23T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-06-15T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-05-18T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-05-19T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-05-25T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-06-17T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-06-19T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-06-24T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-06-09T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-07-02T00:00:00.000",
+            "count" : "8"
+          }, {
+            "item" : "2020-06-11T00:00:00.000",
+            "count" : "8"
+          } ],
+          "smallest" : "2020-04-20T00:00:00.000",
+          "cardinality" : "48"
+        },
+        "format" : {
+          "view" : "date"
+        }
+      }, {
+        "id" : 471977525,
+        "name" : "Race/ethnicity",
+        "dataTypeName" : "text",
+        "description" : "Describes the categories as Hispanic, Non-Hispanic American Indian or Alaskan Native, Non-Hispanic Asian or Pacific Islander, Non-Hispanic Black, Non-Hispanic Multiracial, Non-Hispanic Other, Non-Hispanic White, and Unknown",
+        "fieldName" : "hisp_race",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 99140700,
+        "cachedContents" : {
+          "non_null" : "382",
+          "largest" : "Unknown",
+          "null" : "0",
+          "top" : [ {
+            "item" : "NH Other",
+            "count" : "48"
+          }, {
+            "item" : "NH Black",
+            "count" : "48"
+          }, {
+            "item" : "Hispanic",
+            "count" : "48"
+          }, {
+            "item" : "NH White",
+            "count" : "48"
+          }, {
+            "item" : "Unknown",
+            "count" : "48"
+          }, {
+            "item" : "NH Asian or Pacific Islander",
+            "count" : "47"
+          }, {
+            "item" : "NH Multiracial",
+            "count" : "47"
+          }, {
+            "item" : "NH American Indian or Alaskan Native",
+            "count" : "47"
+          }, {
+            "item" : "NH Asian",
+            "count" : "1"
+          } ],
+          "smallest" : "Hispanic",
+          "cardinality" : "9"
+        },
+        "format" : { }
+      }, {
+        "id" : 471977526,
+        "name" : "Total population",
+        "dataTypeName" : "number",
+        "description" : "Total population",
+        "fieldName" : "total_pop",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 99140699,
+        "cachedContents" : {
+          "non_null" : "241",
+          "largest" : "2408190",
+          "null" : "141",
+          "top" : [ {
+            "item" : "2408190",
+            "count" : "48"
+          }, {
+            "item" : "589809",
+            "count" : "48"
+          }, {
+            "item" : "387134",
+            "count" : "48"
+          }, {
+            "item" : "177966",
+            "count" : "47"
+          }, {
+            "item" : "9566",
+            "count" : "47"
+          }, {
+            "item" : "0",
+            "count" : "2"
+          }, {
+            "item" : "187532",
+            "count" : "1"
+          } ],
+          "smallest" : "0",
+          "cardinality" : "7"
+        },
+        "format" : { }
+      }, {
+        "id" : 471977527,
+        "name" : "Total cases",
+        "dataTypeName" : "number",
+        "description" : "Total cases",
+        "fieldName" : "case_tot",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 99140698,
+        "cachedContents" : {
+          "non_null" : "382",
+          "largest" : "16597",
+          "null" : "0",
+          "top" : [ {
+            "item" : "39",
+            "count" : "14"
+          }, {
+            "item" : "41",
+            "count" : "10"
+          }, {
+            "item" : "253",
+            "count" : "9"
+          }, {
+            "item" : "40",
+            "count" : "7"
+          }, {
+            "item" : "120",
+            "count" : "7"
+          }, {
+            "item" : "252",
+            "count" : "6"
+          }, {
+            "item" : "46",
+            "count" : "4"
+          }, {
+            "item" : "119",
+            "count" : "4"
+          }, {
+            "item" : "677",
+            "count" : "4"
+          }, {
+            "item" : "38",
+            "count" : "3"
+          }, {
+            "item" : "45",
+            "count" : "3"
+          }, {
+            "item" : "265",
+            "count" : "3"
+          }, {
+            "item" : "128",
+            "count" : "3"
+          }, {
+            "item" : "122",
+            "count" : "3"
+          }, {
+            "item" : "118",
+            "count" : "3"
+          }, {
+            "item" : "649",
+            "count" : "3"
+          }, {
+            "item" : "681",
+            "count" : "3"
+          }, {
+            "item" : "669",
+            "count" : "3"
+          }, {
+            "item" : "51",
+            "count" : "2"
+          }, {
+            "item" : "251",
+            "count" : "2"
+          } ],
+          "smallest" : "30",
+          "cardinality" : "287"
+        },
+        "format" : { }
+      }, {
+        "id" : 471977528,
+        "name" : "Crude case rate per 100k",
+        "dataTypeName" : "number",
+        "description" : "Crude case rate per 100,000",
+        "fieldName" : "crudecaserate",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 99140696,
+        "cachedContents" : {
+          "non_null" : "241",
+          "largest" : "1595",
+          "null" : "141",
+          "top" : [ {
+            "item" : "408",
+            "count" : "14"
+          }, {
+            "item" : "429",
+            "count" : "10"
+          }, {
+            "item" : "418",
+            "count" : "7"
+          }, {
+            "item" : "375",
+            "count" : "5"
+          }, {
+            "item" : "379",
+            "count" : "4"
+          }, {
+            "item" : "364",
+            "count" : "4"
+          }, {
+            "item" : "371",
+            "count" : "4"
+          }, {
+            "item" : "481",
+            "count" : "4"
+          }, {
+            "item" : "397",
+            "count" : "3"
+          }, {
+            "item" : "367",
+            "count" : "3"
+          }, {
+            "item" : "382",
+            "count" : "3"
+          }, {
+            "item" : "470",
+            "count" : "3"
+          }, {
+            "item" : "1456",
+            "count" : "2"
+          }, {
+            "item" : "1481",
+            "count" : "2"
+          }, {
+            "item" : "1356",
+            "count" : "2"
+          }, {
+            "item" : "512",
+            "count" : "2"
+          }, {
+            "item" : "0",
+            "count" : "2"
+          }, {
+            "item" : "533",
+            "count" : "2"
+          }, {
+            "item" : "662",
+            "count" : "2"
+          }, {
+            "item" : "373",
+            "count" : "2"
+          } ],
+          "smallest" : "0",
+          "cardinality" : "178"
+        },
+        "format" : { }
+      }, {
+        "id" : 471977529,
+        "name" : "Age adjusted case rate per 100k",
+        "dataTypeName" : "number",
+        "description" : "Age adjusted case rate per 100,000",
+        "fieldName" : "caseageadjusted",
+        "position" : 6,
+        "renderTypeName" : "number",
+        "tableColumnId" : 103193954,
+        "cachedContents" : {
+          "non_null" : "190",
+          "largest" : "1724",
+          "null" : "192",
+          "top" : [ {
+            "item" : "467",
+            "count" : "10"
+          }, {
+            "item" : "384",
+            "count" : "6"
+          }, {
+            "item" : "445",
+            "count" : "6"
+          }, {
+            "item" : "388",
+            "count" : "4"
+          }, {
+            "item" : "374",
+            "count" : "4"
+          }, {
+            "item" : "377",
+            "count" : "3"
+          }, {
+            "item" : "438",
+            "count" : "3"
+          }, {
+            "item" : "443",
+            "count" : "3"
+          }, {
+            "item" : "378",
+            "count" : "3"
+          }, {
+            "item" : "391",
+            "count" : "3"
+          }, {
+            "item" : "519",
+            "count" : "3"
+          }, {
+            "item" : "457",
+            "count" : "3"
+          }, {
+            "item" : "380",
+            "count" : "2"
+          }, {
+            "item" : "454",
+            "count" : "2"
+          }, {
+            "item" : "565",
+            "count" : "2"
+          }, {
+            "item" : "382",
+            "count" : "2"
+          }, {
+            "item" : "1565",
+            "count" : "2"
+          }, {
+            "item" : "529",
+            "count" : "2"
+          }, {
+            "item" : "492",
+            "count" : "2"
+          }, {
+            "item" : "1617",
+            "count" : "2"
+          } ],
+          "smallest" : "343",
+          "cardinality" : "138"
+        },
+        "format" : { }
+      }, {
+        "id" : 471977530,
+        "name" : "Total deaths",
+        "dataTypeName" : "number",
+        "description" : "Total deaths",
+        "fieldName" : "deaths",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 99140697,
+        "cachedContents" : {
+          "non_null" : "382",
+          "largest" : "3184",
+          "null" : "0",
+          "top" : [ {
+            "item" : "2",
+            "count" : "38"
+          }, {
+            "item" : "16",
+            "count" : "26"
+          }, {
+            "item" : "26",
+            "count" : "25"
+          }, {
+            "item" : "45",
+            "count" : "20"
+          }, {
+            "item" : "62",
+            "count" : "18"
+          }, {
+            "item" : "15",
+            "count" : "16"
+          }, {
+            "item" : "27",
+            "count" : "11"
+          }, {
+            "item" : "1",
+            "count" : "8"
+          }, {
+            "item" : "13",
+            "count" : "7"
+          }, {
+            "item" : "44",
+            "count" : "5"
+          }, {
+            "item" : "374",
+            "count" : "5"
+          }, {
+            "item" : "35",
+            "count" : "5"
+          }, {
+            "item" : "642",
+            "count" : "5"
+          }, {
+            "item" : "47",
+            "count" : "5"
+          }, {
+            "item" : "50",
+            "count" : "4"
+          }, {
+            "item" : "36",
+            "count" : "4"
+          }, {
+            "item" : "644",
+            "count" : "4"
+          }, {
+            "item" : "61",
+            "count" : "4"
+          }, {
+            "item" : "14",
+            "count" : "4"
+          }, {
+            "item" : "49",
+            "count" : "4"
+          } ],
+          "smallest" : "0",
+          "cardinality" : "162"
+        },
+        "format" : { }
+      }, {
+        "id" : 471977531,
+        "name" : "Crude death rate per 100k",
+        "dataTypeName" : "number",
+        "description" : "Crude death rate per 100,000",
+        "fieldName" : "crudedeathrate",
+        "position" : 8,
+        "renderTypeName" : "number",
+        "tableColumnId" : 99140701,
+        "cachedContents" : {
+          "non_null" : "241",
+          "largest" : "167",
+          "null" : "141",
+          "top" : [ {
+            "item" : "21",
+            "count" : "39"
+          }, {
+            "item" : "25",
+            "count" : "25"
+          }, {
+            "item" : "166",
+            "count" : "12"
+          }, {
+            "item" : "63",
+            "count" : "10"
+          }, {
+            "item" : "20",
+            "count" : "9"
+          }, {
+            "item" : "10",
+            "count" : "8"
+          }, {
+            "item" : "26",
+            "count" : "8"
+          }, {
+            "item" : "132",
+            "count" : "8"
+          }, {
+            "item" : "60",
+            "count" : "6"
+          }, {
+            "item" : "58",
+            "count" : "6"
+          }, {
+            "item" : "62",
+            "count" : "6"
+          }, {
+            "item" : "131",
+            "count" : "5"
+          }, {
+            "item" : "129",
+            "count" : "4"
+          }, {
+            "item" : "161",
+            "count" : "4"
+          }, {
+            "item" : "59",
+            "count" : "4"
+          }, {
+            "item" : "128",
+            "count" : "4"
+          }, {
+            "item" : "130",
+            "count" : "3"
+          }, {
+            "item" : "0",
+            "count" : "3"
+          }, {
+            "item" : "158",
+            "count" : "3"
+          }, {
+            "item" : "164",
+            "count" : "3"
+          } ],
+          "smallest" : "0",
+          "cardinality" : "74"
+        },
+        "format" : { }
+      }, {
+        "id" : 471977532,
+        "name" : "Age adjusted death rate per 100k",
+        "dataTypeName" : "number",
+        "description" : "Age adjusted death rate per 100,000",
+        "fieldName" : "deathageadjusted",
+        "position" : 9,
+        "renderTypeName" : "number",
+        "tableColumnId" : 103193953,
+        "cachedContents" : {
+          "non_null" : "152",
+          "largest" : "195",
+          "null" : "230",
+          "top" : [ {
+            "item" : "38",
+            "count" : "23"
+          }, {
+            "item" : "72",
+            "count" : "11"
+          }, {
+            "item" : "119",
+            "count" : "8"
+          }, {
+            "item" : "194",
+            "count" : "8"
+          }, {
+            "item" : "70",
+            "count" : "6"
+          }, {
+            "item" : "71",
+            "count" : "6"
+          }, {
+            "item" : "195",
+            "count" : "5"
+          }, {
+            "item" : "37",
+            "count" : "5"
+          }, {
+            "item" : "39",
+            "count" : "5"
+          }, {
+            "item" : "189",
+            "count" : "5"
+          }, {
+            "item" : "114",
+            "count" : "4"
+          }, {
+            "item" : "68",
+            "count" : "4"
+          }, {
+            "item" : "110",
+            "count" : "3"
+          }, {
+            "item" : "192",
+            "count" : "3"
+          }, {
+            "item" : "188",
+            "count" : "3"
+          }, {
+            "item" : "66",
+            "count" : "3"
+          }, {
+            "item" : "109",
+            "count" : "3"
+          }, {
+            "item" : "117",
+            "count" : "3"
+          }, {
+            "item" : "116",
+            "count" : "3"
+          }, {
+            "item" : "35",
+            "count" : "2"
+          } ],
+          "smallest" : "31",
+          "cardinality" : "46"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Public Domain"
+      },
+      "metadata" : {
+        "jsonQuery" : {
+          "order" : [ {
+            "columnFieldName" : "dateupdated",
+            "ascending" : false
+          }, {
+            "columnFieldName" : "hisp_race",
+            "ascending" : true
+          } ]
+        },
+        "custom_fields" : {
+          "Agency" : {
+            "Agency" : "Department of Public Health"
+          }
+        },
+        "rowLabel" : "Date",
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "rfiw-8538",
+        "displayName" : "Pauline Zaldonis",
+        "screenName" : "Pauline Zaldonis",
+        "type" : "interactive",
+        "userSegment" : "site_member",
+        "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+      },
+      "query" : {
+        "orderBys" : [ {
+          "ascending" : false,
+          "expression" : {
+            "columnId" : 471977524,
+            "type" : "column"
+          }
+        }, {
+          "ascending" : true,
+          "expression" : {
+            "columnId" : 471977525,
+            "type" : "column"
+          }
+        } ]
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "rfiw-8538",
+        "displayName" : "Pauline Zaldonis",
+        "screenName" : "Pauline Zaldonis",
+        "type" : "interactive",
+        "userSegment" : "site_member",
+        "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+      },
+      "tags" : [ "covid-19" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ "row-xvnd-faef-zxxe", "00000000-0000-0000-C600-44651E515919", 0, 1593623771, null, 1593623771, null, "{ }", "2020-04-20T00:00:00", "Hispanic", "589809", "2269", "385", null, "109", "18", null ]
+, [ "row-c4ra_vf98.epva", "00000000-0000-0000-1E7F-D52BF94481DA", 0, 1593623771, null, 1593623771, null, "{ }", "2020-04-20T00:00:00", "NH Asian", "187532", "215", "115", null, "14", "7", null ]
+, [ "row-s4pv-yxrj_xs8e", "00000000-0000-0000-8BCB-3CC498A0E240", 0, 1593623771, null, 1593623771, null, "{ }", "2020-04-20T00:00:00", "NH Black", "387134", "1823", "471", null, "184", "48", null ]
+, [ "row-9eyh-g43z-d6kd", "00000000-0000-0000-DAB9-3E0FCA8A9233", 0, 1593623771, null, 1593623771, null, "{ }", "2020-04-20T00:00:00", "NH Other", "0", "118", "0", null, "11", "0", null ]
+, [ "row-9rui-s8ri-zgwu", "00000000-0000-0000-A678-65EC7703819B", 0, 1593623771, null, 1593623771, null, "{ }", "2020-04-20T00:00:00", "NH White", "2408190", "5101", "212", null, "845", "35", null ]
+, [ "row-y6uy-965s~mf9s", "00000000-0000-0000-4239-BD2740D2F6DE", 0, 1593623771, null, 1593623771, null, "{ }", "2020-04-20T00:00:00", "Unknown", "0", "8837", "0", null, "38", "0", null ]
+, [ "row-3uxg~y5tx~zmib", "00000000-0000-0000-FF66-0F0C852E70B0", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-05T00:00:00", "Hispanic", "589809", "5079", "861", null, "234", "40", null ]
+, [ "row-9m7e_cbnt-iaaf", "00000000-0000-0000-99D0-CFC905107D77", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-05T00:00:00", "NH American Indian or Alaskan Native", "9566", "30", "314", null, "0", "0", null ]
+, [ "row-72k4-9p8g.nhkm", "00000000-0000-0000-6C80-F1275384A9F3", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-05T00:00:00", "NH Asian or Pacific Islander", "177966", "444", "249", null, "25", "14", null ]
+, [ "row-wckk~iivi_p66f", "00000000-0000-0000-3546-B9673FA90215", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-05T00:00:00", "NH Black", "387134", "3720", "961", null, "399", "103", null ]
+, [ "row-h3hz.zv7p-bngc", "00000000-0000-0000-BA24-FEA797C191BA", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-05T00:00:00", "NH Multiracial", null, "43", null, null, "8", null, null ]
+, [ "row-czme.fvn3-f749", "00000000-0000-0000-9B6B-3E69A3455E05", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-05T00:00:00", "NH Other", null, "163", null, null, "14", null, null ]
+, [ "row-heaw_v2dg~ijg7", "00000000-0000-0000-7309-8C33BF4B1FD2", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-05T00:00:00", "NH White", "2408190", "9964", "414", null, "1879", "78", null ]
+, [ "row-j8md-hrnf-u7cd", "00000000-0000-0000-3EBC-A36A449F56FB", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-05T00:00:00", "Unknown", null, "11178", null, null, "74", null, null ]
+, [ "row-yw5a~98wd-ftwf", "00000000-0000-0000-7DA9-A0CEEA83B8E8", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-18T00:00:00", "Hispanic", "589809", "6669", "1131", null, "294", "50", null ]
+, [ "row-sanv_ki4w.eveq", "00000000-0000-0000-0D58-40E37A042A06", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-18T00:00:00", "NH American Indian or Alaskan Native", "9566", "38", "397", null, "1", "10", null ]
+, [ "row-6e7f_e2kc~s3b5", "00000000-0000-0000-9FD2-461212AA99E7", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-18T00:00:00", "NH Asian or Pacific Islander", "177966", "561", "315", null, "35", "20", null ]
+, [ "row-yzci~sw7w~c8it", "00000000-0000-0000-95D9-EA26D383C179", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-18T00:00:00", "NH Black", "387134", "4788", "1237", null, "512", "132", null ]
+, [ "row-rhq6-79n9-jwkx", "00000000-0000-0000-56EC-4D07F7FF4DBA", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-18T00:00:00", "NH Multiracial", null, "66", null, null, "13", null, null ]
+, [ "row-iutt-6v77-vkmv", "00000000-0000-0000-4FE1-D90C19ABB625", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-18T00:00:00", "NH Other", null, "193", null, null, "15", null, null ]
+, [ "row-tbw6_zatp-rr4g", "00000000-0000-0000-544E-443201372A51", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-18T00:00:00", "NH White", "2408190", "12185", "506", null, "2520", "105", null ]
+, [ "row-gh9j-g353_hyak", "00000000-0000-0000-BC6A-D11673D0E0BA", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-18T00:00:00", "Unknown", null, "13930", null, null, "82", null, null ]
+, [ "row-sez9_syy2~3pkg", "00000000-0000-0000-5DFC-C492B43EB930", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-19T00:00:00", "Hispanic", "589809", "6847", "1161", null, "305", "52", null ]
+, [ "row-if6q-y8an~9y65", "00000000-0000-0000-50C6-A3A59BB2114E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-19T00:00:00", "NH American Indian or Alaskan Native", "9566", "38", "397", null, "1", "10", null ]
+, [ "row-3use-864k~enhr", "00000000-0000-0000-B514-678FDBA49C7D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-19T00:00:00", "NH Asian or Pacific Islander", "177966", "563", "316", null, "35", "20", null ]
+, [ "row-jt9i.fmw8~aicg", "00000000-0000-0000-EB21-49F5EC17F98A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-19T00:00:00", "NH Black", "387134", "4904", "1267", null, "519", "134", null ]
+, [ "row-7dfb~9n27.tbje", "00000000-0000-0000-FFAF-5C6BAFFF0806", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-19T00:00:00", "NH Multiracial", null, "68", null, null, "13", null, null ]
+, [ "row-py6y_cju6~4hji", "00000000-0000-0000-9EAF-1D14D863C31E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-19T00:00:00", "NH Other", null, "198", null, null, "15", null, null ]
+, [ "row-argi-abwe.pqz8", "00000000-0000-0000-C663-E7800A2EC962", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-19T00:00:00", "NH White", "2408190", "12455", "517", null, "2560", "106", null ]
+, [ "row-48rn~53nw-2xqu", "00000000-0000-0000-69D7-1204F41DEF08", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-19T00:00:00", "Unknown", null, "13944", null, null, "81", null, null ]
+, [ "row-797u_d95g.ipsz", "00000000-0000-0000-F959-A30862D17190", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-20T00:00:00", "Hispanic", "589809", "6945", "1177", null, "312", "53", null ]
+, [ "row-jbq2.uurj.wd6i", "00000000-0000-0000-24C0-DA1E0947E189", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-20T00:00:00", "NH American Indian or Alaskan Native", "9566", "38", "397", null, "1", "10", null ]
+, [ "row-7x9w_rya3-ajkn", "00000000-0000-0000-AD1E-57824A436034", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-20T00:00:00", "NH Asian or Pacific Islander", "177966", "571", "321", null, "35", "20", null ]
+, [ "row-56f7_j58y_jpzg", "00000000-0000-0000-BFCF-D5A8CD776932", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-20T00:00:00", "NH Black", "387134", "4959", "1281", null, "525", "136", null ]
+, [ "row-7gpu.wptq~4gny", "00000000-0000-0000-CA43-08BE5AB1497E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-20T00:00:00", "NH Multiracial", null, "76", null, null, "15", null, null ]
+, [ "row-qfxr.73wm~5qqh", "00000000-0000-0000-4CBC-EB3B6401267F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-20T00:00:00", "NH Other", null, "199", null, null, "14", null, null ]
+, [ "row-n7ub-97u8-qm3d", "00000000-0000-0000-3A0E-7852CB490557", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-20T00:00:00", "NH White", "2408190", "12606", "523", null, "2600", "108", null ]
+, [ "row-2fcz~i6yt~5fgi", "00000000-0000-0000-F91C-CE2DD4AF350F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-20T00:00:00", "Unknown", null, "13814", null, null, "80", null, null ]
+, [ "row-2awp.2wcq.k2bi", "00000000-0000-0000-0F23-8048C2720BD6", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-21T00:00:00", "Hispanic", "589809", "7051", "1195", null, "316", "54", null ]
+, [ "row-sjht_zafc~czkx", "00000000-0000-0000-410B-FE88EE485C57", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-21T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", null, "1", "10", null ]
+, [ "row-ufww-uqye_h8s2", "00000000-0000-0000-D661-CCE525FDACD5", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-21T00:00:00", "NH Asian or Pacific Islander", "177966", "576", "324", null, "36", "20", null ]
+, [ "row-g2n3_6xbj~tbzt", "00000000-0000-0000-A99D-C27F6A896788", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-21T00:00:00", "NH Black", "387134", "5029", "1299", null, "533", "138", null ]
+, [ "row-sxeg-3m7d-gupw", "00000000-0000-0000-5607-27E3BA73E0C2", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-21T00:00:00", "NH Multiracial", null, "78", null, null, "16", null, null ]
+, [ "row-95sv_peej~vjfc", "00000000-0000-0000-7548-5E9A24FA29A3", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-21T00:00:00", "NH Other", null, "203", null, null, "13", null, null ]
+, [ "row-xzpq-kqua_vcdj", "00000000-0000-0000-D1FF-69AC29C3845F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-21T00:00:00", "NH White", "2408190", "12783", "531", null, "2639", "110", null ]
+, [ "row-2avg-sgvi.vq2r", "00000000-0000-0000-2F65-8588DE71A8AF", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-21T00:00:00", "Unknown", null, "13881", null, null, "83", null, null ]
+, [ "row-8r4s_g6xw_rmyw", "00000000-0000-0000-B726-13E93717F083", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-22T00:00:00", "Hispanic", "589809", "7120", "1207", null, "320", "54", null ]
+, [ "row-8x39-4pdd-jsbk", "00000000-0000-0000-3911-993508AA2176", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-22T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", null, "1", "10", null ]
+, [ "row-vt6b-skjb-hf9d", "00000000-0000-0000-2A08-E565DCD4B47D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-22T00:00:00", "NH Asian or Pacific Islander", "177966", "579", "325", null, "35", "20", null ]
+, [ "row-6uxs-wpra.cbi5", "00000000-0000-0000-154D-43BAE63CA8FA", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-22T00:00:00", "NH Black", "387134", "5065", "1308", null, "540", "139", null ]
+, [ "row-zw7p_2ebk_hrzz", "00000000-0000-0000-E64D-C685682F7F9F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-22T00:00:00", "NH Multiracial", null, "78", null, null, "16", null, null ]
+, [ "row-y55c.a6ce-a4hj", "00000000-0000-0000-0792-EC06213B6E3D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-22T00:00:00", "NH Other", null, "204", null, null, "13", null, null ]
+, [ "row-zsde~zcpr~sthk", "00000000-0000-0000-5741-5F61E803FB5C", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-22T00:00:00", "NH White", "2408190", "12891", "535", null, "2661", "110", null ]
+, [ "row-m6cu_acsg.df29", "00000000-0000-0000-A1F1-EFBC3BEE6A81", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-22T00:00:00", "Unknown", null, "14046", null, null, "89", null, null ]
+, [ "row-ys5z.aub4.jh96", "00000000-0000-0000-D7CC-299197B733B9", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-23T00:00:00", "Hispanic", "589809", "7185", "1218", null, "324", "55", null ]
+, [ "row-pvks~uj3v_8mh9", "00000000-0000-0000-0E72-E40FEE249F35", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-23T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", null, "1", "10", null ]
+, [ "row-eab6~rrim_hsfc", "00000000-0000-0000-0CB1-D19E9C8974D0", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-23T00:00:00", "NH Asian or Pacific Islander", "177966", "589", "331", null, "36", "20", null ]
+, [ "row-uuqv.ivg5_sj5c", "00000000-0000-0000-F8F9-54928C79F8CF", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-23T00:00:00", "NH Black", "387134", "5156", "1332", null, "542", "140", null ]
+, [ "row-ncb2~u596~525j", "00000000-0000-0000-DF6F-E459425CA89F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-23T00:00:00", "NH Multiracial", null, "80", null, null, "16", null, null ]
+, [ "row-pifq_97qs-vmmt", "00000000-0000-0000-E698-49505C7B2360", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-23T00:00:00", "NH Other", null, "215", null, null, "13", null, null ]
+, [ "row-tgdi-478y~48g6", "00000000-0000-0000-A8DC-7177CF79A43D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-23T00:00:00", "NH White", "2408190", "13557", "563", null, "2689", "112", null ]
+, [ "row-rj24_iva2.v45n", "00000000-0000-0000-6F45-BA224D665C6D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-23T00:00:00", "Unknown", null, "13647", null, null, "72", null, null ]
+, [ "row-dh7s_98wf.tcyj", "00000000-0000-0000-6667-3E0429FA31F4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-24T00:00:00", "Hispanic", "589809", "7243", "1228", null, "325", "55", null ]
+, [ "row-v8eu-z647_yzy7", "00000000-0000-0000-8523-A9325A7648D4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-24T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", null, "1", "10", null ]
+, [ "row-b8c5_txj5~j7mt", "00000000-0000-0000-77CD-AE1FEEC356BC", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-24T00:00:00", "NH Asian or Pacific Islander", "177966", "592", "333", null, "35", "20", null ]
+, [ "row-zzzf~682m~ib3j", "00000000-0000-0000-1342-C9A4C00CB17E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-24T00:00:00", "NH Black", "387134", "5208", "1345", null, "550", "142", null ]
+, [ "row-zevq~hyik-mbi5", "00000000-0000-0000-AAF9-A5AD1E8B1B71", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-24T00:00:00", "NH Multiracial", null, "83", null, null, "17", null, null ]
+, [ "row-y5vk~xufa-gsnt", "00000000-0000-0000-A978-D6069A394D9B", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-24T00:00:00", "NH Other", null, "222", null, null, "15", null, null ]
+, [ "row-cs3i_vegs.wx6b", "00000000-0000-0000-9A9B-FDF6ACF4ED8B", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-24T00:00:00", "NH White", "2408190", "13795", "573", null, "2730", "113", null ]
+, [ "row-mgwx_y95n_vf53", "00000000-0000-0000-B07B-88C2C25B3EE8", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-24T00:00:00", "Unknown", null, "13691", null, null, "69", null, null ]
+, [ "row-tagt~kra2~5i9q", "00000000-0000-0000-4027-2CD38A5C3507", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-25T00:00:00", "Hispanic", "589809", "7311", "1239", "1416", "327", "55", "103" ]
+, [ "row-h52e-md4e~2qvt", "00000000-0000-0000-502C-529EC21F110E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-25T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", "443", "1", "10", null ]
+, [ "row-rcst~5v5h_mgbs", "00000000-0000-0000-34E0-82240535D270", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-25T00:00:00", "NH Asian or Pacific Islander", "177966", "599", "336", "344", "36", "20", "31" ]
+, [ "row-jv9y~44h4-95hm", "00000000-0000-0000-C862-132FC053B0B6", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-25T00:00:00", "NH Black", "387134", "5249", "1355", "1372", "557", "144", "168" ]
+, [ "row-3ptn_cbgs-njxs", "00000000-0000-0000-E0E5-F789A496E00D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-25T00:00:00", "NH Multiracial", null, "85", null, null, "19", null, null ]
+, [ "row-3fa9-6fke~jum3", "00000000-0000-0000-8B46-EABE2A6ADAD3", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-25T00:00:00", "NH Other", null, "222", null, null, "14", null, null ]
+, [ "row-zeck.728i-yvme", "00000000-0000-0000-7671-501D3E4AAD4C", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-25T00:00:00", "NH White", "2408190", "13913", "578", "443", "2748", "114", "63" ]
+, [ "row-a3kt~d2v2.w57g", "00000000-0000-0000-CB35-3DFCF05D5AE6", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-25T00:00:00", "Unknown", null, "13885", null, null, "67", null, null ]
+, [ "row-c9pb-8yiu-3muv", "00000000-0000-0000-A20F-1C7BC7949791", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-26T00:00:00", "Hispanic", "589809", "7316", "1240", null, "334", "57", null ]
+, [ "row-wfrq-kt2f-e4ep", "00000000-0000-0000-0455-C7BCE6B2E713", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-26T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", null, "2", "21", null ]
+, [ "row-j4eu_6z49.3gmq", "00000000-0000-0000-1637-83729EEF71B1", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-26T00:00:00", "NH Asian or Pacific Islander", "177966", "596", "335", null, "36", "20", null ]
+, [ "row-rv7k~3p8z_eh9j", "00000000-0000-0000-ACB4-9A55AC296855", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-26T00:00:00", "NH Black", "387134", "5248", "1356", null, "560", "145", null ]
+, [ "row-scbp~8jq9.tbfk", "00000000-0000-0000-FE27-BA7CD611F517", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-26T00:00:00", "NH Multiracial", null, "95", null, null, "23", null, null ]
+, [ "row-h9n7~6spf~jquy", "00000000-0000-0000-C4F9-571B70BE1F30", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-26T00:00:00", "NH Other", null, "220", null, null, "13", null, null ]
+, [ "row-jzkh.wugb~bwyn", "00000000-0000-0000-3367-27EF23E19515", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-26T00:00:00", "NH White", "2408190", "13951", "579", null, "2764", "115", null ]
+, [ "row-exhz-mbct~fcxz", "00000000-0000-0000-356F-69611AD90302", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-26T00:00:00", "Unknown", null, "13823", null, null, "71", null, null ]
+, [ "row-83c5-wxea~5irf", "00000000-0000-0000-070C-96EFCFCD1699", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-27T00:00:00", "Hispanic", "589809", "7359", "1248", "1418", "332", "56", "105" ]
+, [ "row-73hx_jfke.6hwp", "00000000-0000-0000-19E6-B49E463BB196", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-27T00:00:00", "NH American Indian or Alaskan Native", "9566", "40", "418", "445", "2", "21", null ]
+, [ "row-fh34~h8nm~gcfg", "00000000-0000-0000-DD60-C8DE6A3A9174", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-27T00:00:00", "NH Asian or Pacific Islander", "177966", "599", "337", "343", "37", "21", "31" ]
+, [ "row-mj7m_dvs9-iqg6", "00000000-0000-0000-095C-F0BAA915FC5E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-27T00:00:00", "NH Black", "387134", "5285", "1365", "1372", "566", "146", "169" ]
+, [ "row-yjfd~qcs2-wqrz", "00000000-0000-0000-8650-E7173F98749D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-27T00:00:00", "NH Multiracial", null, "97", null, null, "24", null, null ]
+, [ "row-4fde-7xkz.agf6", "00000000-0000-0000-9D10-EDD51399E12D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-27T00:00:00", "NH Other", null, "223", null, null, "13", null, null ]
+, [ "row-ywb2.2amh_zeth", "00000000-0000-0000-4004-7BE3D5C069EE", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-27T00:00:00", "NH White", "2408190", "14059", "584", "443", "2791", "116", "63" ]
+, [ "row-5xui~m4m8~wg3d", "00000000-0000-0000-C975-B48CAEFAD89D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-05-27T00:00:00", "Unknown", null, "13897", null, null, "61", null, null ]
+, [ "row-fihs_ch97~2wuw", "00000000-0000-0000-D639-B2F0EED30921", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-01T00:00:00", "Hispanic", "589809", "7710", "1307", "1494", "341", "58", "109" ]
+, [ "row-5cj4-pz86.qyfs", "00000000-0000-0000-8496-3971F09111A7", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-01T00:00:00", "NH American Indian or Alaskan Native", "9566", "40", "418", "454", "2", "21", null ]
+, [ "row-ijsz-xgk5-2p97", "00000000-0000-0000-205A-F9C5EBC71740", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-01T00:00:00", "NH Asian or Pacific Islander", "177966", "627", "352", "361", "41", "23", "35" ]
+, [ "row-nanc.kd6a.vp8t", "00000000-0000-0000-3142-9A82207B0DB9", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-01T00:00:00", "NH Black", "387134", "5536", "1429", "1448", "591", "153", "179" ]
+, [ "row-6w4a.9eq8.h5as", "00000000-0000-0000-0D95-782F7E2BE05C", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-01T00:00:00", "NH Multiracial", null, "105", null, null, "26", null, null ]
+, [ "row-24pz~3939~7jiy", "00000000-0000-0000-7793-F119DF4B9FC7", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-01T00:00:00", "NH Other", null, "232", null, null, "16", null, null ]
+, [ "row-gkj8-7z79.rv9j", "00000000-0000-0000-156A-D0F09FD91912", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-01T00:00:00", "NH White", "2408190", "14733", "612", "467", "2890", "120", "66" ]
+, [ "row-e392.duaq~w9kc", "00000000-0000-0000-5A97-961209E35E31", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-01T00:00:00", "Unknown", null, "13996", null, null, "65", null, null ]
+, [ "row-rz5d.2xw6-dffv", "00000000-0000-0000-7645-A0B6A67E0C01", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-02T00:00:00", "Hispanic", "589809", "7766", "1316", "1503", "339", "57", "108" ]
+, [ "row-c42q-8wi4-8zqw", "00000000-0000-0000-6BDB-856C22BB2177", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-02T00:00:00", "NH American Indian or Alaskan Native", "9566", "40", "418", "454", "2", "21", null ]
+, [ "row-m2j6-frgz_ifrh", "00000000-0000-0000-3905-3653384E8AD5", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-02T00:00:00", "NH Asian or Pacific Islander", "177966", "633", "355", "364", "41", "23", "35" ]
+, [ "row-xbge.ir26_hmck", "00000000-0000-0000-33C2-EDA53BED47B6", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-02T00:00:00", "NH Black", "387134", "5573", "1439", "1457", "592", "153", "179" ]
+, [ "row-8gtk.iajw_usv8", "00000000-0000-0000-FF54-B60DB4F11DBA", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-02T00:00:00", "NH Multiracial", null, "106", null, null, "26", null, null ]
+, [ "row-q3qp-kxi3.8hi3", "00000000-0000-0000-3DA4-101F6017E299", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-02T00:00:00", "NH Other", null, "232", null, null, "16", null, null ]
+, [ "row-849h_8e7a.ixvk", "00000000-0000-0000-2A6D-FD60CD8B413E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-02T00:00:00", "NH White", "2408190", "14814", "615", "469", "2908", "121", "66" ]
+, [ "row-nxxa.52hn~akha", "00000000-0000-0000-42FF-A339815A6B4F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-02T00:00:00", "Unknown", null, "13927", null, null, "65", null, null ]
+, [ "row-rndk-hkxe.wqbk", "00000000-0000-0000-8523-7BFB60137B92", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-03T00:00:00", "Hispanic", "589809", "7821", "1325", "1513", "342", "58", "109" ]
+, [ "row-cuaw~pkuk-t5mt", "00000000-0000-0000-DA27-B42813F79165", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-03T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", "438", "2", "21", null ]
+, [ "row-r7si_k2gi_8mh6", "00000000-0000-0000-E906-6F60D091856A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-03T00:00:00", "NH Asian or Pacific Islander", "177966", "638", "358", "367", "42", "24", "36" ]
+, [ "row-uxmu.yvyd-8scy", "00000000-0000-0000-88A6-08436F30AEEB", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-03T00:00:00", "NH Black", "387134", "5615", "1450", "1468", "596", "154", "181" ]
+, [ "row-yw9z-q2pc_y923", "00000000-0000-0000-C63E-F8FDBD2EA135", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-03T00:00:00", "NH Multiracial", null, "107", null, null, "26", null, null ]
+, [ "row-p4h9.hhvt.h7ku", "00000000-0000-0000-307B-050A30026D73", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-03T00:00:00", "NH Other", null, "236", null, null, "16", null, null ]
+, [ "row-g82d.vpw9-xwy4", "00000000-0000-0000-6B13-231C3F992FED", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-03T00:00:00", "NH White", "2408190", "14906", "619", "472", "2919", "121", "66" ]
+, [ "row-qiqt.nmsa.cfgc", "00000000-0000-0000-70B1-DAE08A5C15A6", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-03T00:00:00", "Unknown", null, "13877", null, null, "64", null, null ]
+, [ "row-z5tw_cy2b~k2ch", "00000000-0000-0000-2638-BB6FAFBD5E5E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-04T00:00:00", "Hispanic", "589809", "7866", "1333", "1522", "343", "58", "109" ]
+, [ "row-tfyk~w3mn.m6cs", "00000000-0000-0000-FE93-03979F1E4855", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-04T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", "438", "2", "21", null ]
+, [ "row-6bxu_jq9a-6him", "00000000-0000-0000-2CBE-6BAA00283C27", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-04T00:00:00", "NH Asian or Pacific Islander", "177966", "640", "359", "369", "44", "25", "37" ]
+, [ "row-2k4t.5663-rsu8", "00000000-0000-0000-6E2A-94FD291A3522", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-04T00:00:00", "NH Black", "387134", "5637", "1456", "1475", "603", "156", "182" ]
+, [ "row-j85k-itfb-gjhp", "00000000-0000-0000-DEB4-118572D845B4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-04T00:00:00", "NH Multiracial", null, "113", null, null, "26", null, null ]
+, [ "row-8kcu.5haq_g42k", "00000000-0000-0000-7D37-18B46BD35B74", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-04T00:00:00", "NH Other", null, "241", null, null, "16", null, null ]
+, [ "row-mu4g-g5ph_ja4j", "00000000-0000-0000-9768-F0E723D2EB2E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-04T00:00:00", "NH White", "2408190", "15015", "623", "475", "2942", "122", "67" ]
+, [ "row-ktve-xfd9-hqvz", "00000000-0000-0000-668D-2C57FCFCEB89", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-04T00:00:00", "Unknown", null, "13909", null, null, "62", null, null ]
+, [ "row-3uit.zpb3-eqya", "00000000-0000-0000-2379-7A77EE6B222E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-05T00:00:00", "Hispanic", "589809", "7940", "1346", "1536", "344", "58", "110" ]
+, [ "row-b7i7_hw76-59hy", "00000000-0000-0000-DFEB-EAED86492B8E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-05T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", "438", "2", "21", null ]
+, [ "row-cia6_sqvp_icvi", "00000000-0000-0000-C789-197E5B862262", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-05T00:00:00", "NH Asian or Pacific Islander", "177966", "648", "364", "373", "44", "25", "37" ]
+, [ "row-dx27~9aiw-5k97", "00000000-0000-0000-A594-E9B804822C35", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-05T00:00:00", "NH Black", "387134", "5686", "1468", "1488", "610", "158", "184" ]
+, [ "row-5vhr.smxj-t9aa", "00000000-0000-0000-48C1-ACF985DC001E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-05T00:00:00", "NH Multiracial", null, "114", null, null, "26", null, null ]
+, [ "row-m9tn-936d.9nx9", "00000000-0000-0000-06AC-7C3EB93E00F8", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-05T00:00:00", "NH Other", null, "244", null, null, "16", null, null ]
+, [ "row-rwqp~8n2k~vhzf", "00000000-0000-0000-BBA8-E3F2FDC94C58", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-05T00:00:00", "NH White", "2408190", "15097", "627", "478", "2951", "123", "67" ]
+, [ "row-d9tz_vix5_6h67", "00000000-0000-0000-E29D-626AF5D6B222", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-05T00:00:00", "Unknown", null, "14050", null, null, "62", null, null ]
+, [ "row-pyci~c82t.pr45", "00000000-0000-0000-DCEE-846AB0053E37", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-06T00:00:00", "Hispanic", "589809", "7977", "1352", "1543", "344", "58", "110" ]
+, [ "row-utg7_m9qu-4uyy", "00000000-0000-0000-6772-975C2F2AA1DE", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-06T00:00:00", "NH American Indian or Alaskan Native", "9566", "40", "418", "452", "2", "21", null ]
+, [ "row-wj85-iuzs-hn9r", "00000000-0000-0000-941B-D216BA2674FC", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-06T00:00:00", "NH Asian or Pacific Islander", "177966", "649", "364", "374", "44", "25", "37" ]
+, [ "row-dts9-unue-uxmq", "00000000-0000-0000-557B-EA734023CEA0", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-06T00:00:00", "NH Black", "387134", "5714", "1475", "1496", "611", "158", "185" ]
+, [ "row-65mj.cbzc_g28p", "00000000-0000-0000-44C2-1C4EF538E529", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-06T00:00:00", "NH Multiracial", null, "114", null, null, "26", null, null ]
+, [ "row-vzyq_3pnc-zsbi", "00000000-0000-0000-DE14-C32448AB5721", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-06T00:00:00", "NH Other", null, "245", null, null, "16", null, null ]
+, [ "row-wn8y~yuar.kead", "00000000-0000-0000-D117-913AECE37E8F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-06T00:00:00", "NH White", "2408190", "15142", "629", "480", "2966", "123", "68" ]
+, [ "row-ryh8.6d58_nxey", "00000000-0000-0000-E1A1-EC4D919AE6ED", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-06T00:00:00", "Unknown", null, "14087", null, null, "62", null, null ]
+, [ "row-mwqm-sh4z-59ip", "00000000-0000-0000-8D41-BE93F1FA5608", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-07T00:00:00", "Hispanic", "589809", "8002", "1356", "1549", "345", "58", "110" ]
+, [ "row-qk5y.zq4q-k7rw", "00000000-0000-0000-61F6-A0AC4201F0BD", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-07T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", "445", "2", "21", null ]
+, [ "row-ejbw_rmvf.z3yw", "00000000-0000-0000-744B-E9AB51CFA64D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-07T00:00:00", "NH Asian or Pacific Islander", "177966", "649", "364", "374", "44", "25", "37" ]
+, [ "row-uq2z-3t9j.wvxu", "00000000-0000-0000-D888-0959C23781C8", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-07T00:00:00", "NH Black", "387134", "5726", "1479", "1498", "611", "158", "185" ]
+, [ "row-dngc_hawz-ut6j", "00000000-0000-0000-9BC7-62D255C4B2B3", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-07T00:00:00", "NH Multiracial", null, "116", null, null, "27", null, null ]
+, [ "row-k8nd_gekd_cnyf", "00000000-0000-0000-53DE-27D3FADDE2EE", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-07T00:00:00", "NH Other", null, "246", null, null, "16", null, null ]
+, [ "row-9f9n.n4km_37sd", "00000000-0000-0000-B7C7-C24EF0D4F401", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-07T00:00:00", "NH White", "2408190", "15179", "630", "481", "2978", "124", "68" ]
+, [ "row-i4xb.f2hx_ww5r", "00000000-0000-0000-5A23-70C03D68B402", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-07T00:00:00", "Unknown", null, "14135", null, null, "61", null, null ]
+, [ "row-23qu.ew79_79j4", "00000000-0000-0000-2E3C-AA30F4C182AD", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-08T00:00:00", "Hispanic", "589809", "8030", "1361", "1556", "348", "59", "111" ]
+, [ "row-5v9x.j6rt-zx2k", "00000000-0000-0000-5DA9-0F9B8EBB1507", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-08T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", "445", "2", "21", null ]
+, [ "row-5275-gm9z~jzx2", "00000000-0000-0000-E07F-C0B31C52503A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-08T00:00:00", "NH Asian or Pacific Islander", "177966", "649", "364", "374", "44", "25", "37" ]
+, [ "row-t3wf.xv4w-r6w7", "00000000-0000-0000-8CA6-AC283E6AAD00", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-08T00:00:00", "NH Black", "387134", "5734", "1481", "1501", "614", "159", "186" ]
+, [ "row-aqg6_9jvq_r5cf", "00000000-0000-0000-E3FD-F34846B221B0", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-08T00:00:00", "NH Multiracial", null, "117", null, null, "27", null, null ]
+, [ "row-57m5~m87e-7mmr", "00000000-0000-0000-6D51-A0AF996C4F4E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-08T00:00:00", "NH Other", null, "247", null, null, "16", null, null ]
+, [ "row-izn7~2h7u_9eru", "00000000-0000-0000-A9E5-EADA476E6466", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-08T00:00:00", "NH White", "2408190", "15238", "633", "482", "2978", "124", "68" ]
+, [ "row-8rxa-5rcx~fksv", "00000000-0000-0000-59FC-0E71396CD15F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-08T00:00:00", "Unknown", null, "14125", null, null, "68", null, null ]
+, [ "row-5gzv~cdst-8pgw", "00000000-0000-0000-5A85-89A938A5BB5C", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-09T00:00:00", "Hispanic", "589809", "8082", "1370", "1565", "349", "59", "111" ]
+, [ "row-g6jz~kz29-edkc", "00000000-0000-0000-9400-A806E4B187C2", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-09T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", "445", "2", "21", null ]
+, [ "row-7h44.iey6~yars", "00000000-0000-0000-F5B4-49525F6E92FD", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-09T00:00:00", "NH Asian or Pacific Islander", "177966", "650", "365", "374", "45", "25", "38" ]
+, [ "row-rx6a~itgj_kz62", "00000000-0000-0000-799B-DBE5F59F374C", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-09T00:00:00", "NH Black", "387134", "5761", "1488", "1508", "619", "160", "187" ]
+, [ "row-x6ci~ddkx~bhqg", "00000000-0000-0000-8BA6-761984F8C55F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-09T00:00:00", "NH Multiracial", null, "117", null, null, "26", null, null ]
+, [ "row-2xkr-2bb9_39vt", "00000000-0000-0000-FD6D-DBED586561C5", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-09T00:00:00", "NH Other", null, "249", null, null, "16", null, null ]
+, [ "row-2maq_ec2k_ncuw", "00000000-0000-0000-395C-A9F6CB7F9FAC", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-09T00:00:00", "NH White", "2408190", "15320", "636", "485", "3002", "125", "68" ]
+, [ "row-758s-ptkg.vc7r", "00000000-0000-0000-6B60-95048DBEBB43", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-09T00:00:00", "Unknown", null, "14129", null, null, "61", null, null ]
+, [ "row-etzx~qagv_5kqw", "00000000-0000-0000-F081-3271A206C041", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-10T00:00:00", "Hispanic", "589809", "8130", "1378", "1573", "351", "59", "112" ]
+, [ "row-k7zx_ujes~23yj", "00000000-0000-0000-16B8-608BD6C25324", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-10T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", "445", "2", "21", null ]
+, [ "row-zym5~9a92~v9qa", "00000000-0000-0000-4E21-873B145CCBFB", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-10T00:00:00", "NH Asian or Pacific Islander", "177966", "654", "367", "377", "45", "25", "38" ]
+, [ "row-fmfg_qwgk~s84n", "00000000-0000-0000-AB98-2CF815715543", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-10T00:00:00", "NH Black", "387134", "5781", "1493", "1513", "620", "160", "188" ]
+, [ "row-ek3c.h243-yj7x", "00000000-0000-0000-A4A5-EA8B1CDC37D4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-10T00:00:00", "NH Multiracial", null, "118", null, null, "26", null, null ]
+, [ "row-i3br.n8tv-8p5e", "00000000-0000-0000-27A3-8584FBA652B8", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-10T00:00:00", "NH Other", null, "251", null, null, "15", null, null ]
+, [ "row-5wgc_ac22_wubi", "00000000-0000-0000-7239-2BC0560F6A3E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-10T00:00:00", "NH White", "2408190", "15369", "638", "486", "3024", "126", "69" ]
+, [ "row-ds55.6twx_iqsv", "00000000-0000-0000-573A-724515D02111", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-10T00:00:00", "Unknown", null, "14119", null, null, "63", null, null ]
+, [ "row-c7x9-85zs_q6h5", "00000000-0000-0000-44D1-C2A99EFFC1F7", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-11T00:00:00", "Hispanic", "589809", "8190", "1388", "1584", "351", "59", "112" ]
+, [ "row-4smj.mcd5~ksxi", "00000000-0000-0000-E22D-E7A3AB500570", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-11T00:00:00", "NH American Indian or Alaskan Native", "9566", "39", "408", "445", "2", "21", null ]
+, [ "row-vgry~xz5q~e3n8", "00000000-0000-0000-48B3-D248598BB02A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-11T00:00:00", "NH Asian or Pacific Islander", "177966", "654", "367", "377", "45", "25", "38" ]
+, [ "row-aach-n7sr.8ax8", "00000000-0000-0000-7453-5ABCDA6AF8E6", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-11T00:00:00", "NH Black", "387134", "5797", "1497", "1517", "622", "161", "188" ]
+, [ "row-fsgk~rxmz_ymir", "00000000-0000-0000-3F9A-A88142F313FB", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-11T00:00:00", "NH Multiracial", null, "118", null, null, "26", null, null ]
+, [ "row-bvjv.v9c4_z8yt", "00000000-0000-0000-9C61-71A9E1CE9BF3", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-11T00:00:00", "NH Other", null, "253", null, null, "16", null, null ]
+, [ "row-3wmf-kshk~pkm7", "00000000-0000-0000-B98F-6E0DABC51A34", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-11T00:00:00", "NH White", "2408190", "15415", "640", "488", "3035", "126", "69" ]
+, [ "row-yeag-kwy5~vpnv", "00000000-0000-0000-44D1-FFC821339C78", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-11T00:00:00", "Unknown", null, "14223", null, null, "62", null, null ]
+, [ "row-ncp7.ch7h.4sfj", "00000000-0000-0000-DC07-E0ED55D9514A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-12T00:00:00", "Hispanic", "589809", "8238", "1396", "1593", "354", "60", "113" ]
+, [ "row-qhx8_xj6s_sfcb", "00000000-0000-0000-371D-E7B787A20407", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-12T00:00:00", "NH American Indian or Alaskan Native", "9566", "40", "418", "457", "2", "21", null ]
+, [ "row-jh6x-kgqn.jfj3", "00000000-0000-0000-2D8E-F58C92CF014A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-12T00:00:00", "NH Asian or Pacific Islander", "177966", "656", "368", "378", "45", "25", "38" ]
+, [ "row-j8pf.pz6g_c6zk", "00000000-0000-0000-9B92-79ADD3077853", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-12T00:00:00", "NH Black", "387134", "5839", "1508", "1528", "623", "161", "188" ]
+, [ "row-wamq-h5da.bnqs", "00000000-0000-0000-24CA-5C79685E8A20", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-12T00:00:00", "NH Multiracial", null, "119", null, null, "26", null, null ]
+, [ "row-mk38_pvvp~fdq7", "00000000-0000-0000-FF69-50F3C9C06F90", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-12T00:00:00", "NH Other", null, "252", null, null, "16", null, null ]
+, [ "row-723w~nu77.7ipy", "00000000-0000-0000-A14E-8C08E511C715", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-12T00:00:00", "NH White", "2408190", "15542", "645", "492", "3058", "127", "70" ]
+, [ "row-frsp~v46d.z8bg", "00000000-0000-0000-07C0-A89A2B72B19F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-12T00:00:00", "Unknown", null, "14308", null, null, "62", null, null ]
+, [ "row-62yf_5qkm.vyx8", "00000000-0000-0000-1E7D-177F76460DEF", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-13T00:00:00", "Hispanic", "589809", "8251", "1398", "1595", "355", "60", "113" ]
+, [ "row-3as9~i6df_ri46", "00000000-0000-0000-83CC-2BF57D8972A4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-13T00:00:00", "NH American Indian or Alaskan Native", "9566", "40", "418", "457", "2", "21", null ]
+, [ "row-bnif~fiyt~qz5j", "00000000-0000-0000-AAA1-A7C8A3579810", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-13T00:00:00", "NH Asian or Pacific Islander", "177966", "655", "367", "377", "45", "25", "38" ]
+, [ "row-57dw_8khk.tk26", "00000000-0000-0000-34D0-E8CDA08F7864", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-13T00:00:00", "NH Black", "387134", "5846", "1510", "1530", "625", "161", "189" ]
+, [ "row-yfx7_x7q6-pusj", "00000000-0000-0000-4A40-04D637D2FC0F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-13T00:00:00", "NH Multiracial", null, "119", null, null, "26", null, null ]
+, [ "row-67fj-rmvz-pbcv", "00000000-0000-0000-BA3B-0956C6327C0E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-13T00:00:00", "NH Other", null, "252", null, null, "16", null, null ]
+, [ "row-2bwa_a335~5dud", "00000000-0000-0000-FD74-75A91EDFDFBE", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-13T00:00:00", "NH White", "2408190", "15570", "646", "492", "3070", "127", "70" ]
+, [ "row-qpn9~3qm4.fgp7", "00000000-0000-0000-A0D0-B466062F1C5B", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-13T00:00:00", "Unknown", null, "14355", null, null, "62", null, null ]
+, [ "row-js4w~xaf8-wsf2", "00000000-0000-0000-F7BD-3D5F9377A496", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-14T00:00:00", "Hispanic", "589809", "8272", "1402", "1599", "356", "60", "114" ]
+, [ "row-y9ec~vj7b.vxme", "00000000-0000-0000-A0D7-7817D7A123F2", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-14T00:00:00", "NH American Indian or Alaskan Native", "9566", "40", "418", "457", "2", "21", null ]
+, [ "row-h7k7_ncg3-fezf", "00000000-0000-0000-76ED-31FD6299C8B9", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-14T00:00:00", "NH Asian or Pacific Islander", "177966", "656", "368", "378", "45", "25", "38" ]
+, [ "row-p6rx-zbqb-tzdb", "00000000-0000-0000-29BE-03F2EA39E3A4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-14T00:00:00", "NH Black", "387134", "5872", "1516", "1537", "625", "161", "189" ]
+, [ "row-s4te-w48u_gxj5", "00000000-0000-0000-08C1-EB7798064361", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-14T00:00:00", "NH Multiracial", null, "119", null, null, "26", null, null ]
+, [ "row-jbx2_rvfy.rc5n", "00000000-0000-0000-F61C-2EE6D4BE1C47", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-14T00:00:00", "NH Other", null, "253", null, null, "16", null, null ]
+, [ "row-uzyn_iunv~hvbm", "00000000-0000-0000-F3D1-192C28583653", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-14T00:00:00", "NH White", "2408190", "15592", "647", "493", "3072", "128", "70" ]
+, [ "row-r5ys_k4pn~bnsn", "00000000-0000-0000-FE98-2AE54C20D6F4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-14T00:00:00", "Unknown", null, "14431", null, null, "62", null, null ]
+, [ "row-qx2a~apz3.5kwq", "00000000-0000-0000-06DA-27F7F27406D5", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-15T00:00:00", "Hispanic", "589809", "8329", "1411", "1605", "357", "60", "114" ]
+, [ "row-89me_4wb6-ek4c", "00000000-0000-0000-1578-A8834E832A72", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-15T00:00:00", "NH American Indian or Alaskan Native", "9566", "41", "429", "465", "2", "21", null ]
+, [ "row-4j9b_6fxr_7ksx", "00000000-0000-0000-B886-A2C9B37D2C62", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-15T00:00:00", "NH Asian or Pacific Islander", "177966", "658", "369", "378", "45", "25", "38" ]
+, [ "row-3h48-p9zi~tbkp", "00000000-0000-0000-9725-FAEF158A7CCF", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-15T00:00:00", "NH Black", "387134", "5886", "1520", "1540", "626", "162", "189" ]
+, [ "row-42wk.h9tr.x7vj", "00000000-0000-0000-971D-7306F90B0D44", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-15T00:00:00", "NH Multiracial", null, "119", null, null, "26", null, null ]
+, [ "row-guws-pnv8-bhzn", "00000000-0000-0000-1BE6-C833A0A065DF", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-15T00:00:00", "NH Other", null, "253", null, null, "16", null, null ]
+, [ "row-g4nv-qnej_a6km", "00000000-0000-0000-3BEE-B4FB80258883", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-15T00:00:00", "NH White", "2408190", "15628", "649", "495", "3076", "128", "70" ]
+, [ "row-jrdr_2qqi.uus5", "00000000-0000-0000-16DA-992645F0F7CD", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-15T00:00:00", "Unknown", null, "14435", null, null, "62", null, null ]
+, [ "row-zxbt.gz68~vaef", "00000000-0000-0000-8DC6-B4AEBE50DBCF", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-16T00:00:00", "Hispanic", "589809", "8378", "1420", "1614", "357", "60", "114" ]
+, [ "row-8q5r-r4ek~xm39", "00000000-0000-0000-D8AD-3CD5EC597F46", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-16T00:00:00", "NH American Indian or Alaskan Native", "9566", "41", "429", "467", "2", "21", null ]
+, [ "row-2ivm.yri7.9267", "00000000-0000-0000-FFFC-32D0B27306CE", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-16T00:00:00", "NH Asian or Pacific Islander", "177966", "661", "371", "379", "45", "25", "38" ]
+, [ "row-m2m6~4s77-5ghb", "00000000-0000-0000-F261-2BD8005A7826", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-16T00:00:00", "NH Black", "387134", "5908", "1526", "1545", "627", "162", "189" ]
+, [ "row-pbka.zpz4_4pxv", "00000000-0000-0000-AC26-F5D5F3D903E3", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-16T00:00:00", "NH Multiracial", null, "120", null, null, "26", null, null ]
+, [ "row-v4gs-hdet_5i2c", "00000000-0000-0000-075B-E35BE0C1189F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-16T00:00:00", "NH Other", null, "253", null, null, "17", null, null ]
+, [ "row-r9sr-4zrk~8tpa", "00000000-0000-0000-DC7C-15D524E4AC2A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-16T00:00:00", "NH White", "2408190", "15676", "651", "497", "3080", "128", "70" ]
+, [ "row-r8m5_5cge.r2p5", "00000000-0000-0000-1E15-441577FD193A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-16T00:00:00", "Unknown", null, "14392", null, null, "65", null, null ]
+, [ "row-gtwd-bajr~fzv5", "00000000-0000-0000-051B-24D8CE4B7213", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-17T00:00:00", "Hispanic", "589809", "8395", "1423", "1617", "357", "60", "114" ]
+, [ "row-mvd7~imit~mp9n", "00000000-0000-0000-287A-BB73C559E92D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-17T00:00:00", "NH American Indian or Alaskan Native", "9566", "41", "429", "467", "2", "21", null ]
+, [ "row-wrpx.2dha-znfg", "00000000-0000-0000-B185-BACC2DA9DE6E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-17T00:00:00", "NH Asian or Pacific Islander", "177966", "661", "371", "379", "45", "25", "38" ]
+, [ "row-ryy5.yrhe~tkx8", "00000000-0000-0000-984C-8362B3C902EF", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-17T00:00:00", "NH Black", "387134", "5915", "1528", "1548", "627", "162", "189" ]
+, [ "row-m8fj-3yjp~kccz", "00000000-0000-0000-335E-F1C60753F369", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-17T00:00:00", "NH Multiracial", null, "120", null, null, "26", null, null ]
+, [ "row-jg58_uj9r-eyei", "00000000-0000-0000-C827-DC8A63C8CD2B", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-17T00:00:00", "NH Other", null, "251", null, null, "16", null, null ]
+, [ "row-yw26~seij~gq8j", "00000000-0000-0000-7164-CCA2F2C6726A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-17T00:00:00", "NH White", "2408190", "15717", "653", "499", "3089", "128", "70" ]
+, [ "row-mq5w_kz23_kgic", "00000000-0000-0000-174A-F722CFB76794", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-17T00:00:00", "Unknown", null, "14340", null, null, "64", null, null ]
+, [ "row-gtbr.ce7i_p7xe", "00000000-0000-0000-2EA0-74775FA59DA8", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-18T00:00:00", "Hispanic", "589809", "8454", "1433", "1628", "360", "61", "115" ]
+, [ "row-i8a3_sph4~qmku", "00000000-0000-0000-12B2-5041394BE2A4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-18T00:00:00", "NH American Indian or Alaskan Native", "9566", "41", "429", "467", "2", "21", null ]
+, [ "row-xukp~w3eq_ctkn", "00000000-0000-0000-DC50-5AB2D4169949", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-18T00:00:00", "NH Asian or Pacific Islander", "177966", "662", "371", "380", "45", "25", "38" ]
+, [ "row-3nh4_e2tf-ppab", "00000000-0000-0000-A8E8-54E3BCC8A169", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-18T00:00:00", "NH Black", "387134", "5934", "1533", "1553", "631", "163", "191" ]
+, [ "row-tncp_vngy.j44k", "00000000-0000-0000-334C-DCD54F83586A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-18T00:00:00", "NH Multiracial", null, "120", null, null, "26", null, null ]
+, [ "row-rdwt_tunz~ekmp", "00000000-0000-0000-C7E4-49D5E79B57D6", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-18T00:00:00", "NH Other", null, "252", null, null, "15", null, null ]
+, [ "row-ybf6_u4rn-7ej8", "00000000-0000-0000-67E3-BCB8F74A1BC7", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-18T00:00:00", "NH White", "2408190", "15766", "655", "500", "3097", "129", "71" ]
+, [ "row-3d26~ja7g-3z63", "00000000-0000-0000-4DD3-7BA4C393473F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-18T00:00:00", "Unknown", null, "14328", null, null, "62", null, null ]
+, [ "row-9a9f_gq8x-rx2b", "00000000-0000-0000-9746-EBCE0C92BDDB", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-19T00:00:00", "Hispanic", "589809", "8515", "1443", "1641", "364", "62", "116" ]
+, [ "row-y46c~dab5~hnyk", "00000000-0000-0000-4877-5A165B63A0AD", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-19T00:00:00", "NH American Indian or Alaskan Native", "9566", "41", "429", "467", "2", "21", null ]
+, [ "row-h8iu_zufb.f333", "00000000-0000-0000-0577-160C9AACC7AD", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-19T00:00:00", "NH Asian or Pacific Islander", "177966", "662", "371", "380", "45", "25", "38" ]
+, [ "row-f6yz_ywkj~85ev", "00000000-0000-0000-195D-D4893B432084", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-19T00:00:00", "NH Black", "387134", "5953", "1537", "1558", "633", "164", "192" ]
+, [ "row-itxx_yqbc~dpnt", "00000000-0000-0000-B398-3ED7CCBBD943", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-19T00:00:00", "NH Multiracial", null, "122", null, null, "26", null, null ]
+, [ "row-zbyd.2955_cuxr", "00000000-0000-0000-8D04-03BAB29B07EC", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-19T00:00:00", "NH Other", null, "253", null, null, "15", null, null ]
+, [ "row-ckq3~bn7i-w5u7", "00000000-0000-0000-79C0-0E02CBD3939E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-19T00:00:00", "NH White", "2408190", "15835", "657", "502", "3104", "129", "71" ]
+, [ "row-xuij-7vj2_twsk", "00000000-0000-0000-7B44-0000E04543D2", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-19T00:00:00", "Unknown", null, "14334", null, null, "62", null, null ]
+, [ "row-s3sh_qq7w-ecxi", "00000000-0000-0000-0694-3FC744AC8C30", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-20T00:00:00", "Hispanic", "589809", "8528", "1445", "1643", "365", "62", "116" ]
+, [ "row-apdr~6fb6_h8v8", "00000000-0000-0000-7306-E43FBA69FC07", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-20T00:00:00", "NH American Indian or Alaskan Native", "9566", "41", "429", "467", "2", "21", null ]
+, [ "row-d5q8.356b_eigd", "00000000-0000-0000-DE92-E86F055A8CF4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-20T00:00:00", "NH Asian or Pacific Islander", "177966", "665", "373", "382", "45", "25", "38" ]
+, [ "row-si5k.rjrm~k6gu", "00000000-0000-0000-B704-264263663657", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-20T00:00:00", "NH Black", "387134", "5958", "1539", "1560", "635", "164", "192" ]
+, [ "row-gnt3_ps6k-88fy", "00000000-0000-0000-DA00-3518A45F5EDD", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-20T00:00:00", "NH Multiracial", null, "122", null, null, "26", null, null ]
+, [ "row-cv3a~r4kj.sijw", "00000000-0000-0000-C9CD-63A439A49A3A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-20T00:00:00", "NH Other", null, "253", null, null, "15", null, null ]
+, [ "row-nmcw.rw2h_b9qv", "00000000-0000-0000-8FD2-0D2B9FEE4922", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-20T00:00:00", "NH White", "2408190", "15845", "658", "503", "3110", "129", "71" ]
+, [ "row-j2mp.q6dp.f94n", "00000000-0000-0000-B1C9-DE94C7D326A7", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-20T00:00:00", "Unknown", null, "14343", null, null, "62", null, null ]
+, [ "row-2mb8.k73c-4imr", "00000000-0000-0000-3682-AB45A442F78E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-21T00:00:00", "Hispanic", "589809", "8563", "1451", "1649", "365", "62", "116" ]
+, [ "row-khrr.2ik4-qzks", "00000000-0000-0000-8893-9AA69DEE17B4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-21T00:00:00", "NH American Indian or Alaskan Native", "9566", "41", "429", "467", "2", "21", null ]
+, [ "row-554j.ypes~r375", "00000000-0000-0000-4441-1747524BF69B", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-21T00:00:00", "NH Asian or Pacific Islander", "177966", "665", "373", "382", "45", "25", "38" ]
+, [ "row-2zga_d463-ejg5", "00000000-0000-0000-957A-CB35E689F332", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-21T00:00:00", "NH Black", "387134", "5980", "1544", "1565", "636", "164", "192" ]
+, [ "row-k96e.isry-86ym", "00000000-0000-0000-9E5F-F14C4AA3EDD1", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-21T00:00:00", "NH Multiracial", null, "121", null, null, "26", null, null ]
+, [ "row-2avg~5632_dfuq", "00000000-0000-0000-40C7-7ECEDEC90FD5", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-21T00:00:00", "NH Other", null, "253", null, null, "15", null, null ]
+, [ "row-jp2n_vfsx_f793", "00000000-0000-0000-171D-BD7C15BB33B8", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-21T00:00:00", "NH White", "2408190", "15885", "659", "504", "3113", "129", "71" ]
+, [ "row-4uu7.ybem~xxib", "00000000-0000-0000-4FCF-49222F4A5A86", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-21T00:00:00", "Unknown", null, "14274", null, null, "61", null, null ]
+, [ "row-vm7c-uitp-d3r3", "00000000-0000-0000-AEB0-E82A489118E4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-22T00:00:00", "Hispanic", "589809", "8586", "1455", "1654", "366", "62", "117" ]
+, [ "row-h98x_petd-9c39", "00000000-0000-0000-3E10-DCFDFC97E863", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-22T00:00:00", "NH American Indian or Alaskan Native", "9566", "41", "429", "467", "2", "21", null ]
+, [ "row-dv95.qpti_sz5a", "00000000-0000-0000-B277-65B891F72633", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-22T00:00:00", "NH Asian or Pacific Islander", "177966", "668", "375", "384", "45", "25", "38" ]
+, [ "row-g75w-b6mg~b78m", "00000000-0000-0000-742B-469A3185F8AE", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-22T00:00:00", "NH Black", "387134", "5999", "1549", "1571", "638", "165", "193" ]
+, [ "row-5j36~8gjw~wvfe", "00000000-0000-0000-80B5-CD6077070E3D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-22T00:00:00", "NH Multiracial", null, "120", null, null, "26", null, null ]
+, [ "row-rtvh_f5md-6cfv", "00000000-0000-0000-6E6D-1C6C1DCB1FB5", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-22T00:00:00", "NH Other", null, "253", null, null, "15", null, null ]
+, [ "row-zzf2.8r8n~qagv", "00000000-0000-0000-3282-5C4F624B9088", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-22T00:00:00", "NH White", "2408190", "15948", "662", "507", "3123", "130", "71" ]
+, [ "row-24dm_wy9q~ftpz", "00000000-0000-0000-D175-92BC670D292D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-22T00:00:00", "Unknown", null, "14284", null, null, "62", null, null ]
+, [ "row-w3c2-568f-76n9", "00000000-0000-0000-AE50-778C546C6C78", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-23T00:00:00", "Hispanic", "589809", "8593", "1456", "1656", "368", "62", "117" ]
+, [ "row-8itc.z5d6.5qt3", "00000000-0000-0000-1F4B-D62F2F9D6F21", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-23T00:00:00", "NH American Indian or Alaskan Native", "9566", "41", "429", "467", "2", "21", null ]
+, [ "row-4jwx~s2jr.x8fx", "00000000-0000-0000-4450-77BF8BD62196", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-23T00:00:00", "NH Asian or Pacific Islander", "177966", "668", "375", "384", "45", "25", "38" ]
+, [ "row-jj5r.9sjv.jdkc", "00000000-0000-0000-E826-2F87A55E701D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-23T00:00:00", "NH Black", "387134", "6003", "1550", "1572", "639", "165", "193" ]
+, [ "row-y8cu.cii2.agaz", "00000000-0000-0000-C037-AEC0ADC339ED", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-23T00:00:00", "NH Multiracial", null, "120", null, null, "26", null, null ]
+, [ "row-uvsv-fu7r-bzhx", "00000000-0000-0000-EA12-607BFBC6610F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-23T00:00:00", "NH Other", null, "252", null, null, "15", null, null ]
+, [ "row-y9jb~dn4u~idkw", "00000000-0000-0000-3A97-CEF086C32A77", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-23T00:00:00", "NH White", "2408190", "15952", "662", "507", "3130", "130", "71" ]
+, [ "row-98jh-yfx2~42yd", "00000000-0000-0000-597F-9E079274380A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-23T00:00:00", "Unknown", null, "14284", null, null, "62", null, null ]
+, [ "row-de7n_rwfw.twm4", "00000000-0000-0000-D243-08E3A6263FD4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-24T00:00:00", "Hispanic", "589809", "8644", "1465", "1665", "368", "62", "117" ]
+, [ "row-k99k~n9uk_bxzt", "00000000-0000-0000-0F71-652FD30B4BE5", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-24T00:00:00", "NH American Indian or Alaskan Native", "9566", "41", "429", "467", "2", "21", null ]
+, [ "row-kria.p7ps_rxyn", "00000000-0000-0000-9698-ECBB7B11E22D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-24T00:00:00", "NH Asian or Pacific Islander", "177966", "669", "375", "384", "45", "25", "38" ]
+, [ "row-z9rb.t8bw~zcid", "00000000-0000-0000-1928-C8E2B30CECF4", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-24T00:00:00", "NH Black", "387134", "6027", "1557", "1578", "641", "166", "194" ]
+, [ "row-azqt_6knj.auzd", "00000000-0000-0000-2FE9-E887F136A12A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-24T00:00:00", "NH Multiracial", null, "120", null, null, "26", null, null ]
+, [ "row-zdmb_ydke_8n95", "00000000-0000-0000-60CA-B2700B4CACD9", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-24T00:00:00", "NH Other", null, "252", null, null, "15", null, null ]
+, [ "row-9v8b.59ee-q4gr", "00000000-0000-0000-02E4-3DD50FDA9ADE", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-24T00:00:00", "NH White", "2408190", "16024", "665", "509", "3139", "130", "72" ]
+, [ "row-pw5z-mt26_fp95", "00000000-0000-0000-EDA4-27E1BF5C0915", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-24T00:00:00", "Unknown", null, "14217", null, null, "62", null, null ]
+, [ "row-gzkt-tdnj_hukp", "00000000-0000-0000-3A1D-25B7BED82524", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-25T00:00:00", "Hispanic", "589809", "8655", "1467", "1668", "370", "63", "118" ]
+, [ "row-chnh_p53c~ri3d", "00000000-0000-0000-31C9-715EF6704EDF", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-25T00:00:00", "NH American Indian or Alaskan Native", "9566", "42", "439", "477", "2", "21", null ]
+, [ "row-ezv3~syc9~6nfs", "00000000-0000-0000-F109-3D3A347F1C30", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-25T00:00:00", "NH Asian or Pacific Islander", "177966", "669", "375", "384", "45", "25", "38" ]
+, [ "row-wnps.hzay.wkxe", "00000000-0000-0000-8740-60EFBC9ADCB1", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-25T00:00:00", "NH Black", "387134", "6037", "1559", "1581", "642", "166", "194" ]
+, [ "row-dx8p-6g9m.wavr", "00000000-0000-0000-EC5D-61BF7E8CF752", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-25T00:00:00", "NH Multiracial", null, "120", null, null, "26", null, null ]
+, [ "row-ia7e.9vyg-r4hk", "00000000-0000-0000-1636-16E3AA2670E1", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-25T00:00:00", "NH Other", null, "252", null, null, "15", null, null ]
+, [ "row-8tuz~mf4b~w4yg", "00000000-0000-0000-33E8-2BED970FBDFD", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-25T00:00:00", "NH White", "2408190", "16051", "666", "510", "3145", "131", "72" ]
+, [ "row-9ari~iut5~nn8d", "00000000-0000-0000-C332-C455672A2E7C", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-25T00:00:00", "Unknown", null, "14233", null, null, "62", null, null ]
+, [ "row-z8uz~d2nq~x4p5", "00000000-0000-0000-72BF-AF253889D050", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-26T00:00:00", "Hispanic", "589809", "8680", "1471", "1673", "370", "63", "118" ]
+, [ "row-wte2_xvf5-dyuk", "00000000-0000-0000-33E6-0FAC4BDC70D3", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-26T00:00:00", "NH American Indian or Alaskan Native", "9566", "49", "512", "565", "2", "21", null ]
+, [ "row-hztv_zfi2_br44", "00000000-0000-0000-4B5C-08D4E31CC38E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-26T00:00:00", "NH Asian or Pacific Islander", "177966", "669", "375", "384", "45", "25", "38" ]
+, [ "row-hkcs~bdyp_2fi3", "00000000-0000-0000-1BD9-165FDF749069", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-26T00:00:00", "NH Black", "387134", "6045", "1561", "1583", "642", "166", "194" ]
+, [ "row-6xaw-bppv.28yv", "00000000-0000-0000-AF38-3EF705AB881A", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-26T00:00:00", "NH Multiracial", null, "121", null, null, "26", null, null ]
+, [ "row-mzzi_8p5j_7fmy", "00000000-0000-0000-E55E-3DBD9C101EEA", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-26T00:00:00", "NH Other", null, "253", null, null, "15", null, null ]
+, [ "row-mmir-e85b-2vzc", "00000000-0000-0000-42D0-EC51448B0032", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-26T00:00:00", "NH White", "2408190", "16101", "668", "511", "3149", "131", "72" ]
+, [ "row-s44u-btew-57i5", "00000000-0000-0000-2F00-CAD27A3255E1", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-26T00:00:00", "Unknown", null, "14288", null, null, "62", null, null ]
+, [ "row-2ka5.bvx2_t4r3", "00000000-0000-0000-7B92-D9E4A78E9D9B", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-27T00:00:00", "Hispanic", "589809", "8701", "1475", "1677", "373", "63", "119" ]
+, [ "row-3j6k~t5w4.ibiu", "00000000-0000-0000-CF3F-DF2FE22E6F52", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-27T00:00:00", "NH American Indian or Alaskan Native", "9566", "49", "512", "565", "2", "21", null ]
+, [ "row-yucx.d8xp.aqxg", "00000000-0000-0000-5056-1994815590F3", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-27T00:00:00", "NH Asian or Pacific Islander", "177966", "670", "376", "384", "45", "25", "38" ]
+, [ "row-tw4m_xcsb.gfq9", "00000000-0000-0000-757F-A52DDD3CDBCF", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-27T00:00:00", "NH Black", "387134", "6053", "1563", "1585", "642", "166", "194" ]
+, [ "row-8ezy_cy42.s2bt", "00000000-0000-0000-4459-A0C77B3B888B", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-27T00:00:00", "NH Multiracial", null, "122", null, null, "26", null, null ]
+, [ "row-uxsi-wshd~6z29", "00000000-0000-0000-FA98-BD3FDDF658AD", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-27T00:00:00", "NH Other", null, "254", null, null, "15", null, null ]
+, [ "row-vj5d.pjdq~yi3s", "00000000-0000-0000-CF08-C0164E9B6040", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-27T00:00:00", "NH White", "2408190", "16121", "669", "512", "3151", "131", "72" ]
+, [ "row-hqwk-q9qn~8uws", "00000000-0000-0000-5AFC-93E470FA6EE0", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-27T00:00:00", "Unknown", null, "14333", null, null, "62", null, null ]
+, [ "row-4w33~8mht~4hxp", "00000000-0000-0000-1C96-1B20A61E63B6", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-28T00:00:00", "Hispanic", "589809", "8741", "1481", "1684", "373", "63", "119" ]
+, [ "row-w6nb.w45p-j992", "00000000-0000-0000-FA77-BB6EC6D89F91", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-28T00:00:00", "NH American Indian or Alaskan Native", "9566", "51", "533", "587", "2", "21", null ]
+, [ "row-cacs_kp42-uzjb", "00000000-0000-0000-B82C-FFDFB992FCE8", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-28T00:00:00", "NH Asian or Pacific Islander", "177966", "677", "379", "388", "45", "25", "38" ]
+, [ "row-cvc7.wef5-d6ii", "00000000-0000-0000-5544-12E0DFA03E6D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-28T00:00:00", "NH Black", "387134", "6074", "1568", "1591", "642", "166", "194" ]
+, [ "row-ehrw~7ikf-bk5w", "00000000-0000-0000-CA38-B2368884713D", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-28T00:00:00", "NH Multiracial", null, "125", null, null, "27", null, null ]
+, [ "row-i8vk_6ra9~2aja", "00000000-0000-0000-9F86-52EB130C64E2", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-28T00:00:00", "NH Other", null, "255", null, null, "15", null, null ]
+, [ "row-8t37.zvg2_ajnj", "00000000-0000-0000-EDC4-2C00F1CD70B7", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-28T00:00:00", "NH White", "2408190", "16162", "671", "514", "3154", "131", "72" ]
+, [ "row-pj3a-axtu.f4gk", "00000000-0000-0000-D4E7-04285F1BBD1E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-28T00:00:00", "Unknown", null, "14277", null, null, "62", null, null ]
+, [ "row-y28n_4q8c~dq9i", "00000000-0000-0000-72DD-4089C9AADB87", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-29T00:00:00", "Hispanic", "589809", "8795", "1490", "1693", "373", "63", "119" ]
+, [ "row-7tnd.jap3~f95x", "00000000-0000-0000-0FAF-3D03B7EF857F", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-29T00:00:00", "NH American Indian or Alaskan Native", "9566", "51", "533", "583", "2", "21", null ]
+, [ "row-wc2f~ih77-ikun", "00000000-0000-0000-9E67-0BD42772F246", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-29T00:00:00", "NH Asian or Pacific Islander", "177966", "677", "379", "388", "46", "26", "38" ]
+, [ "row-dthb.r3r8.mkm5", "00000000-0000-0000-18B5-51D2C2079206", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-29T00:00:00", "NH Black", "387134", "6097", "1574", "1597", "643", "166", "194" ]
+, [ "row-hhe4-xmd3_s257", "00000000-0000-0000-B165-F9397106B4ED", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-29T00:00:00", "NH Multiracial", null, "127", null, null, "27", null, null ]
+, [ "row-pe8d-8pm7_scr2", "00000000-0000-0000-3A9B-BE017AFC64EB", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-29T00:00:00", "NH Other", null, "257", null, null, "16", null, null ]
+, [ "row-xvcc-j4mr.k7zs", "00000000-0000-0000-FF5D-57A099D6B84E", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-29T00:00:00", "NH White", "2408190", "16258", "675", "517", "3165", "131", "72" ]
+, [ "row-gqah~aa8w_h6zg", "00000000-0000-0000-5E2D-65E995C13EF9", 0, 1593623771, null, 1593623771, null, "{ }", "2020-06-29T00:00:00", "Unknown", null, "14252", null, null, "50", null, null ]
+, [ "row-t5k2~4ypi.h3rc", "00000000-0000-0000-9DB8-5D3D6A703C42", 0, 1593634213, null, 1593634213, null, "{ }", "2020-06-30T00:00:00", "Hispanic", "589809", "8810", "1493", "1695", "374", "63", "119" ]
+, [ "row-wqk3.8wc5~zksp", "00000000-0000-0000-EDC9-1A87BEBBB982", 0, 1593634213, null, 1593634213, null, "{ }", "2020-06-30T00:00:00", "NH American Indian or Alaskan Native", "9566", "46", "481", "527", "2", "21", null ]
+, [ "row-2gsc~jaue.3sug", "00000000-0000-0000-01B5-F9EBFB8F683E", 0, 1593634213, null, 1593634213, null, "{ }", "2020-06-30T00:00:00", "NH Asian or Pacific Islander", "177966", "677", "379", "388", "46", "26", "38" ]
+, [ "row-96a9_kcxd-u59y", "00000000-0000-0000-274E-7ED86B08F036", 0, 1593634213, null, 1593634213, null, "{ }", "2020-06-30T00:00:00", "NH Black", "387134", "6108", "1577", "1600", "641", "166", "194" ]
+, [ "row-erfy~ca3r.kyjb", "00000000-0000-0000-D2CE-1BF91A4DB856", 0, 1593634213, null, 1593634213, null, "{ }", "2020-06-30T00:00:00", "NH Multiracial", null, "128", null, null, "27", null, null ]
+, [ "row-8ugj-d6vm~pbyc", "00000000-0000-0000-6206-D9000AAE16EB", 0, 1593634213, null, 1593634213, null, "{ }", "2020-06-30T00:00:00", "NH Other", null, "265", null, null, "16", null, null ]
+, [ "row-jhw5.ncm9-u8sn", "00000000-0000-0000-96D8-26E3B9038C50", 0, 1593634213, null, 1593634213, null, "{ }", "2020-06-30T00:00:00", "NH White", "2408190", "16317", "677", "518", "3168", "132", "72" ]
+, [ "row-c2gd.vx7h_r4qc", "00000000-0000-0000-3CF5-0BF11BC986F0", 0, 1593634213, null, 1593634213, null, "{ }", "2020-06-30T00:00:00", "Unknown", null, "14221", null, null, "50", null, null ]
+, [ "row-xmr6-9nea-jfjy", "00000000-0000-0000-4BF1-577A03097F8F", 0, 1593720614, null, 1593720614, null, "{ }", "2020-07-01T00:00:00", "Hispanic", "589809", "8826", "1496", "1699", "374", "63", "119" ]
+, [ "row-wyib~ihhr-2ntj", "00000000-0000-0000-E3FC-7D45A9432C54", 0, 1593720614, null, 1593720614, null, "{ }", "2020-07-01T00:00:00", "NH American Indian or Alaskan Native", "9566", "46", "481", "527", "2", "21", null ]
+, [ "row-gaax_t99f_4k7r", "00000000-0000-0000-BDD2-778446AA4B6C", 0, 1593720614, null, 1593720614, null, "{ }", "2020-07-01T00:00:00", "NH Asian or Pacific Islander", "177966", "677", "379", "388", "46", "26", "38" ]
+, [ "row-edm8_et3u-r3qe", "00000000-0000-0000-4A38-CDF95B5FBE63", 0, 1593720614, null, 1593720614, null, "{ }", "2020-07-01T00:00:00", "NH Black", "387134", "6122", "1581", "1603", "642", "166", "194" ]
+, [ "row-5c5c-8ps7-b624", "00000000-0000-0000-7AD8-C714024ED3D5", 0, 1593720614, null, 1593720614, null, "{ }", "2020-07-01T00:00:00", "NH Multiracial", null, "128", null, null, "27", null, null ]
+, [ "row-nuhk-prc6_v6jh", "00000000-0000-0000-3FAE-61DD358C21D5", 0, 1593720614, null, 1593720614, null, "{ }", "2020-07-01T00:00:00", "NH Other", null, "265", null, null, "16", null, null ]
+, [ "row-7adm.acuk-u9ie", "00000000-0000-0000-DEE0-F25D6E3D1F8B", 0, 1593720614, null, 1593720614, null, "{ }", "2020-07-01T00:00:00", "NH White", "2408190", "16380", "680", "520", "3170", "132", "72" ]
+, [ "row-czke-m8rt~bahq", "00000000-0000-0000-BDDC-6D80AEBE0024", 0, 1593720614, null, 1593720614, null, "{ }", "2020-07-01T00:00:00", "Unknown", null, "14202", null, null, "49", null, null ]
+, [ "row-hi2g-vs56_itdm", "00000000-0000-0000-86A8-0B5A022C3AF7", 0, 1593807013, null, 1593807013, null, "{ }", "2020-07-02T00:00:00", "Hispanic", "589809", "8857", "1501", "1705", "374", "63", "119" ]
+, [ "row-szza_9sii_rpvq", "00000000-0000-0000-2DA6-39AB6ADD2266", 0, 1593807013, null, 1593807013, null, "{ }", "2020-07-02T00:00:00", "NH American Indian or Alaskan Native", "9566", "45", "470", "519", "2", "21", null ]
+, [ "row-262w-rx3a_qkwx", "00000000-0000-0000-13CE-E3E54F2360EE", 0, 1593807013, null, 1593807013, null, "{ }", "2020-07-02T00:00:00", "NH Asian or Pacific Islander", "177966", "680", "381", "390", "47", "26", "39" ]
+, [ "row-tc2c~xq44_jb8d", "00000000-0000-0000-549F-E0D0311124D2", 0, 1593807013, null, 1593807013, null, "{ }", "2020-07-02T00:00:00", "NH Black", "387134", "6134", "1584", "1606", "644", "166", "195" ]
+, [ "row-aemy.t8fa~qp3r", "00000000-0000-0000-7F84-8F89A9879E18", 0, 1593807013, null, 1593807013, null, "{ }", "2020-07-02T00:00:00", "NH Multiracial", null, "128", null, null, "27", null, null ]
+, [ "row-enmp-j6wg~ycmu", "00000000-0000-0000-3A42-8451A7717A51", 0, 1593807013, null, 1593807013, null, "{ }", "2020-07-02T00:00:00", "NH Other", null, "264", null, null, "16", null, null ]
+, [ "row-ynjn_p98x~vw36", "00000000-0000-0000-6AC0-786114C06442", 0, 1593807013, null, 1593807013, null, "{ }", "2020-07-02T00:00:00", "NH White", "2408190", "16433", "682", "522", "3176", "132", "72" ]
+, [ "row-ccqg_v8mn~ieia", "00000000-0000-0000-531C-4144F02BF49B", 0, 1593807013, null, 1593807013, null, "{ }", "2020-07-02T00:00:00", "Unknown", null, "14176", null, null, "49", null, null ]
+, [ "row-8t2x.qjq9-95da", "00000000-0000-0000-36DD-0348F4322FED", 0, 1594066212, null, 1594066212, null, "{ }", "2020-07-05T00:00:00", "Hispanic", "589809", "8893", "1507", "1712", "374", "63", "119" ]
+, [ "row-xu9m~ycbq-224s", "00000000-0000-0000-0222-1B6CC26CB113", 0, 1594066212, null, 1594066212, null, "{ }", "2020-07-05T00:00:00", "NH American Indian or Alaskan Native", "9566", "45", "470", "519", "2", "21", null ]
+, [ "row-ha7w-vyfw~paeh", "00000000-0000-0000-8F3E-249B379A314E", 0, 1594066212, null, 1594066212, null, "{ }", "2020-07-05T00:00:00", "NH Asian or Pacific Islander", "177966", "681", "382", "391", "47", "26", "39" ]
+, [ "row-s9qx_pk67_acvj", "00000000-0000-0000-F034-DE0D5EE57CCE", 0, 1594066212, null, 1594066212, null, "{ }", "2020-07-05T00:00:00", "NH Black", "387134", "6144", "1587", "1608", "644", "166", "195" ]
+, [ "row-h7dc-kb4d~7vqx", "00000000-0000-0000-7D90-ECAA0BFB5764", 0, 1594066212, null, 1594066212, null, "{ }", "2020-07-05T00:00:00", "NH Multiracial", null, "129", null, null, "27", null, null ]
+, [ "row-8xsa-gxzm-ah7z", "00000000-0000-0000-A477-4E27CAA3634B", 0, 1594066212, null, 1594066212, null, "{ }", "2020-07-05T00:00:00", "NH Other", null, "266", null, null, "16", null, null ]
+, [ "row-5aqg-5gbf_duqa", "00000000-0000-0000-10CD-316F0387F389", 0, 1594066212, null, 1594066212, null, "{ }", "2020-07-05T00:00:00", "NH White", "2408190", "16492", "685", "524", "3179", "132", "72" ]
+, [ "row-sjwq~zkjh~kd35", "00000000-0000-0000-3D20-3544F26984FF", 0, 1594066212, null, 1594066212, null, "{ }", "2020-07-05T00:00:00", "Unknown", null, "14326", null, null, "49", null, null ]
+, [ "row-zb4u.iw7s-76pn", "00000000-0000-0000-5368-F735C252CDB0", 0, 1594152613, null, 1594152613, null, "{ }", "2020-07-06T00:00:00", "Hispanic", "589809", "8904", "1509", "1715", "374", "63", "119" ]
+, [ "row-tpk7_p2dn_i44k", "00000000-0000-0000-000A-F4C66C83AB96", 0, 1594152613, null, 1594152613, null, "{ }", "2020-07-06T00:00:00", "NH American Indian or Alaskan Native", "9566", "45", "470", "519", "2", "21", null ]
+, [ "row-qgbr_rkpw_f3iv", "00000000-0000-0000-B609-8E60E5EC4ADB", 0, 1594152613, null, 1594152613, null, "{ }", "2020-07-06T00:00:00", "NH Asian or Pacific Islander", "177966", "681", "382", "391", "47", "26", "39" ]
+, [ "row-rhei-bszb_93eb", "00000000-0000-0000-43D8-96AD1F7BCA35", 0, 1594152613, null, 1594152613, null, "{ }", "2020-07-06T00:00:00", "NH Black", "387134", "6148", "1588", "1610", "644", "166", "195" ]
+, [ "row-eapx-5rcu~arnp", "00000000-0000-0000-8125-497D9EEED90E", 0, 1594152613, null, 1594152613, null, "{ }", "2020-07-06T00:00:00", "NH Multiracial", null, "129", null, null, "27", null, null ]
+, [ "row-e9kz.udjg~zehx", "00000000-0000-0000-BAE5-D2E5BE64BA08", 0, 1594152613, null, 1594152613, null, "{ }", "2020-07-06T00:00:00", "NH Other", null, "263", null, null, "16", null, null ]
+, [ "row-7k9n_39ws_q895", "00000000-0000-0000-AEC7-8D6D2E27A08E", 0, 1594152613, null, 1594152613, null, "{ }", "2020-07-06T00:00:00", "NH White", "2408190", "16517", "686", "525", "3179", "132", "72" ]
+, [ "row-abcv.in5y-jqbc", "00000000-0000-0000-F2C9-43F92BA4E834", 0, 1594152613, null, 1594152613, null, "{ }", "2020-07-06T00:00:00", "Unknown", null, "14346", null, null, "49", null, null ]
+, [ "row-97z9~b9zv_xvnu", "00000000-0000-0000-BA8E-C01777A3C70D", 0, 1594239014, null, 1594239014, null, "{ }", "2020-07-07T00:00:00", "Hispanic", "589809", "8933", "1514", "1720", "375", "64", "120" ]
+, [ "row-isvd.fwga~5tyj", "00000000-0000-0000-A46F-8D8D26810793", 0, 1594239014, null, 1594239014, null, "{ }", "2020-07-07T00:00:00", "NH American Indian or Alaskan Native", "9566", "46", "481", "529", "2", "21", null ]
+, [ "row-nix4_y2iz.8e7h", "00000000-0000-0000-11A6-33D971F16E22", 0, 1594239014, null, 1594239014, null, "{ }", "2020-07-07T00:00:00", "NH Asian or Pacific Islander", "177966", "681", "382", "391", "47", "26", "39" ]
+, [ "row-5thx.zks7_gum2", "00000000-0000-0000-7D40-214BFE993D9E", 0, 1594239014, null, 1594239014, null, "{ }", "2020-07-07T00:00:00", "NH Black", "387134", "6161", "1591", "1613", "644", "166", "195" ]
+, [ "row-vcwu.2rxb-n3ga", "00000000-0000-0000-544C-2BBF5E2AD292", 0, 1594239014, null, 1594239014, null, "{ }", "2020-07-07T00:00:00", "NH Multiracial", null, "130", null, null, "27", null, null ]
+, [ "row-tq5n~6ak8.uyzu", "00000000-0000-0000-798D-D56FCB9720E8", 0, 1594239014, null, 1594239014, null, "{ }", "2020-07-07T00:00:00", "NH Other", null, "265", null, null, "16", null, null ]
+, [ "row-aei4.8jct.7gen", "00000000-0000-0000-7FE7-413C3384530B", 0, 1594239014, null, 1594239014, null, "{ }", "2020-07-07T00:00:00", "NH White", "2408190", "16564", "688", "526", "3182", "132", "73" ]
+, [ "row-r5vs.hvr6_qhs9", "00000000-0000-0000-965B-D70EA8FCFBC2", 0, 1594239014, null, 1594239014, null, "{ }", "2020-07-07T00:00:00", "Unknown", null, "14328", null, null, "50", null, null ]
+, [ "row-enqs~my5x~sqwm", "00000000-0000-0000-98BA-8142E027F61B", 0, 1594325414, null, 1594325414, null, "{ }", "2020-07-08T00:00:00", "Hispanic", "589809", "8958", "1518", "1724", "376", "64", "120" ]
+, [ "row-svxm~hp69-j83s", "00000000-0000-0000-03F3-B6CF156036DD", 0, 1594325414, null, 1594325414, null, "{ }", "2020-07-08T00:00:00", "NH American Indian or Alaskan Native", "9566", "46", "481", "529", "2", "21", null ]
+, [ "row-f32k~6j3r-xm5x", "00000000-0000-0000-34B7-F97B5BB2056F", 0, 1594325414, null, 1594325414, null, "{ }", "2020-07-08T00:00:00", "NH Asian or Pacific Islander", "177966", "682", "383", "392", "47", "26", "39" ]
+, [ "row-pn3u.37s9~achn", "00000000-0000-0000-8410-A4DB70374E09", 0, 1594325414, null, 1594325414, null, "{ }", "2020-07-08T00:00:00", "NH Black", "387134", "6176", "1595", "1617", "646", "167", "195" ]
+, [ "row-i5b2.9q7a.4rj6", "00000000-0000-0000-AB5E-45D3E01D2B5F", 0, 1594325414, null, 1594325414, null, "{ }", "2020-07-08T00:00:00", "NH Multiracial", null, "131", null, null, "27", null, null ]
+, [ "row-jyte-pi6b_7mej", "00000000-0000-0000-3BAA-7A4767A1863C", 0, 1594325414, null, 1594325414, null, "{ }", "2020-07-08T00:00:00", "NH Other", null, "266", null, null, "16", null, null ]
+, [ "row-db6j-db3c.26g7", "00000000-0000-0000-0D9F-9C61F04A9870", 0, 1594325414, null, 1594325414, null, "{ }", "2020-07-08T00:00:00", "NH White", "2408190", "16597", "689", "528", "3184", "132", "73" ]
+, [ "row-bhq4~mhg8.52nf", "00000000-0000-0000-E5C1-FD8B06340CB7", 0, 1594325414, null, 1594325414, null, "{ }", "2020-07-08T00:00:00", "Unknown", null, "14353", null, null, "50", null, null ]
+ ]
+}
